@@ -9,9 +9,9 @@ from bs4 import BeautifulSoup as bs
 
 subject = "An email with attachment from Python"
 body = "This is an email with attachment sent from Python"
-sender_email = "jlcpcbofficial02@gmail.com"
-receiver_email = "jlcpcbofficial@gmail.com"
-password = ("Cloudybird815")
+sender_email = "*******************"
+receiver_email = "*******************"
+password = ("*******************")
 
 for i in range(1,7):
     page_number = (i)
