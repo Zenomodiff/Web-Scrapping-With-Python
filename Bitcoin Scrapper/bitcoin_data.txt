@@ -1,0 +1,12 @@
+Bitcoin(BTC)Price == ₹ 31,83,857, Today's_Top_Rate == -8,099.29, Today's_Bottom_Rate == -0.25%
+Ethereum(ETH)Price == ₹ 2,18,690, Today's_Top_Rate == -2,785.97, Today's_Bottom_Rate == -1.26%
+Tether(USDT)Price == ₹ 79.63, Today's_Top_Rate == -0.21, Today's_Bottom_Rate == -0.27%
+Binance Coin(BNB)Price == ₹ 31,820, Today's_Top_Rate == +107.80, Today's_Bottom_Rate == +0.34%
+USD Coin(USDC)Price == ₹ 79.59, Today's_Top_Rate == -0.21, Today's_Bottom_Rate == -0.26%
+Ripple(XRP)Price == ₹ 65.61, Today's_Top_Rate == +4.54, Today's_Bottom_Rate == +7.43%
+Cardano(ADA)Price == ₹ 78.95, Today's_Top_Rate == -1.29, Today's_Bottom_Rate == -1.61%
+Solana(SOL)Price == ₹ 7,188.66, Today's_Top_Rate == -17.33, Today's_Bottom_Rate == -0.24%
+Avalanche(AVAX)Price == ₹ 6,665.66, Today's_Top_Rate == -110.5, Today's_Bottom_Rate == -1.62%
+Terra(LUNA)Price == ₹ 4,036.92, Today's_Top_Rate == +2.53, Today's_Bottom_Rate == +0.06%
+Dogecoin(DOGE)Price == ₹ 11.26, Today's_Top_Rate == +0.23, Today's_Bottom_Rate == +2.06%
+Binance USD(BUSD)Price == ₹ 74.65, Today's_Top_Rate == +0.04, Today's_Bottom_Rate == +0.05%
