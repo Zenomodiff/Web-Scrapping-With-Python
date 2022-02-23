@@ -1,0 +1,3 @@
+Total_Cases = 429,074,256
+Total_Deaths = 5,929,878
+Total_Recovered = 357,302,674
