@@ -1,0 +1,4 @@
+Current World Population is : 7930962413
+Today's Births is : 378063
+Today's Deaths is : 158720
+Todays Population Growth is: 219343
