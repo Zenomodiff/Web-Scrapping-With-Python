@@ -1,0 +1,1275 @@
+plant name is :- Bamboo, its scientic name is :- Phyllostachys aurea
+plant name is :- Cactus, its scientic name is :- Cactaceae
+plant name is :- Eucalyptus, its scientic name is :- Eucalyptus cinerea
+plant name is :- Fiddle-Leaf Fig, its scientic name is :- Ficus Lyrata
+plant name is :- Orchid, its scientic name is :- Cattleya
+plant name is :- Philodendron, its scientic name is :- Philodendron
+plant name is :- Snake Plant, its scientic name is :- Sansevieria trifasciata
+plant name is :- Split-Leaf Philodendron, its scientic name is :- Monstera Deliciosa
+plant name is :- Abelia, its scientic name is :- Abelia
+plant name is :- Acoma Crape Myrtle, its scientic name is :- Lagerstroemia x 'acoma'
+plant name is :- Aeonium, its scientic name is :- Aeonium 
+plant name is :- Aerangis Orchids, its scientic name is :- Aerangis 
+plant name is :- African Daisy, its scientic name is :- Osteospermum x hybrida
+plant name is :- African Fern Pine, its scientic name is :- Afrocarpus gracilior
+plant name is :- African Mask, its scientic name is :- Alocasia x amazonica
+plant name is :- African Milk Tree, its scientic name is :- Euphorbia trigona
+plant name is :- African Spear Plant, its scientic name is :- Sansevieria cylindrica
+plant name is :- Agastache, its scientic name is :- Agastache
+plant name is :- Agave, its scientic name is :- Agave
+plant name is :- Air Plant, its scientic name is :- Tillandsia cacticola
+plant name is :- Air Plant, its scientic name is :- Tillandsia kolbii
+plant name is :- Air Plant, its scientic name is :- Tillandsia stricta
+plant name is :- Ajuga, its scientic name is :- Ajuga reptans
+plant name is :- Aleppo Pine, its scientic name is :- Pinus halepensis
+plant name is :- Algerian Ivy, its scientic name is :- Hedera algeriensis
+plant name is :- Alligator Juniper, its scientic name is :- Juniperus deppeana
+plant name is :- Almond Tree, its scientic name is :- Prunus dulcis
+plant name is :- Alocasia, its scientic name is :- Alocasia
+plant name is :- Alpine Currant, its scientic name is :- Ribes alpinum
+plant name is :- Althea Shrub, its scientic name is :- Hibiscus syriacus
+plant name is :- Aluminum Plant, its scientic name is :- Pilea cadierei
+plant name is :- Alyssum, its scientic name is :- Lobularia maritima
+plant name is :- Amaranth, its scientic name is :- Amaranthus 
+plant name is :- Amaryllis, its scientic name is :- Hippeastrum
+plant name is :- Ambassador Allium, its scientic name is :- Allium 'ambassador'
+plant name is :- American Beech Tree, its scientic name is :- Fagus grandifolia
+plant name is :- American Elderberry, its scientic name is :- Sambucus canadensis
+plant name is :- American Ginseng, its scientic name is :- Panax quinquefolius
+plant name is :- American Persimmon, its scientic name is :- Diospyros virginiana
+plant name is :- American Wisteria, its scientic name is :- Wisteria frutescens
+plant name is :- Amur Adonis, its scientic name is :- Adonis amurensis
+plant name is :- Anemone, its scientic name is :- Anemone 
+plant name is :- Angel Trumpet Datura, its scientic name is :- Daturainoxia
+plant name is :- Angelica, its scientic name is :- Angelica archangelica
+plant name is :- Angelina Stonecrop, its scientic name is :- Sedum rupestre 'angelina'
+plant name is :- Angelonia, its scientic name is :- Angelonia angustifolia
+plant name is :- Anise Hyssop, its scientic name is :- Agastache foeniculum
+plant name is :- Anise Magnolia, its scientic name is :- Magnolia salicifolia
+plant name is :- Anthurium, its scientic name is :- Anthurium
+plant name is :- Apricot Tree, its scientic name is :- Prunus armeniaca
+plant name is :- Arabian Jasmine, its scientic name is :- Jasminum sambac
+plant name is :- Areca Palm, its scientic name is :- Dypsis lutescens
+plant name is :- Arizona Cypress, its scientic name is :- Cupressus arizonica
+plant name is :- Arnold Promise' Witch Hazel, its scientic name is :- Hamamelis x intermedia 'Arnold Promise'
+plant name is :- Aronia, its scientic name is :- Aronia melanocarpa
+plant name is :- Arrowhead Vine, its scientic name is :- Syngonium podophyllum
+plant name is :- Arrowwood Viburnum, its scientic name is :- Viburnum dentatum
+plant name is :- Artemisia, its scientic name is :- Artemisia
+plant name is :- Artichoke, its scientic name is :- Cynara scolymus
+plant name is :- Arugula, its scientic name is :- Eruca vesicaria
+plant name is :- Arum Lily, its scientic name is :- Zantedeschia aethiopica
+plant name is :- Ashe Magnolia, its scientic name is :- Magnolia ashei
+plant name is :- Asparagus, its scientic name is :- Asparagus officinalis
+plant name is :- Asparagus Fern, its scientic name is :- Asparagus aethiopicus
+plant name is :- Asters, its scientic name is :- Symphyotrichum
+plant name is :- Astilbe, its scientic name is :- Astilbe
+plant name is :- Aubrieta, its scientic name is :- Aubrieta 
+plant name is :- Australian Tree Fern, its scientic name is :- Cyathea cooperi
+plant name is :- Austrian Pine, its scientic name is :- Pinus nigra
+plant name is :- Autograph Tree, its scientic name is :- Clusia rosea
+plant name is :- Autumn Blaze Maple Tree, its scientic name is :- Acer x freemanii
+plant name is :- Autumn Sage, its scientic name is :- Salvia greggii
+plant name is :- Avocado, its scientic name is :- Persea americana
+plant name is :- Azalea, its scientic name is :- Rhododendron
+plant name is :- Baby Rubber Plant, its scientic name is :- Peperomia
+plant name is :- Baby Tears, its scientic name is :- Soleirolia soleirolii
+plant name is :- Baby Toes, its scientic name is :- Fenestraria rhopalophylla
+plant name is :- Baby's Breath, its scientic name is :- Gypsophila
+plant name is :- Bachelor's Button, its scientic name is :- Centaurea cyanus
+plant name is :- Bahia Grass, its scientic name is :- Paspalum notatum
+plant name is :- Bald Cypress, its scientic name is :- Taxodium distichum
+plant name is :- Ball Cactus, its scientic name is :- Parodia magnifica
+plant name is :- Balloon Flower, its scientic name is :- Platycodon grandiflorus
+plant name is :- Balm of Gilead, its scientic name is :- Populus x jackii
+plant name is :- Balsam Fir, its scientic name is :- Abies balsamea
+plant name is :- Bamboo, its scientic name is :- Phyllostachys aurea
+plant name is :- Bamboo Palm, its scientic name is :- Chamaedorea seifrizii
+plant name is :- Banana, its scientic name is :- Musa 
+plant name is :- Banana Yucca, its scientic name is :- Yucca baccata
+plant name is :- Barrenwort, its scientic name is :- Epimedium
+plant name is :- Bartlett Pear, its scientic name is :- Pyrus communis
+plant name is :- Baseball Plant, its scientic name is :- Euphorbia obesa
+plant name is :- Basket Flower, its scientic name is :- Centaurea americana
+plant name is :- Basswood, its scientic name is :- Tilia
+plant name is :- Bat Flower, its scientic name is :- Tacca chantrieri
+plant name is :- Batik Iris, its scientic name is :- Iris germanica'batik'
+plant name is :- Beaked Hazelnut, its scientic name is :- Corylus cornuta
+plant name is :- Bean Herb, its scientic name is :- Satureja hortensis
+plant name is :- Bear's Breeches, its scientic name is :- Acanthus mollis
+plant name is :- Bearded Iris, its scientic name is :- Iris germanica
+plant name is :- Beardtongue, its scientic name is :- Penstemon
+plant name is :- Beautyberry, its scientic name is :- Callicarpa americana
+plant name is :- Becky Shasta Daisy, its scientic name is :- Leucanthemum x superbum 'becky'
+plant name is :- Bee Balm, its scientic name is :- Monarda
+plant name is :- Beefsteak Tomato, its scientic name is :- Solanum lycopersicum 'Beefsteak'
+plant name is :- Beet, its scientic name is :- Beta vulgaris
+plant name is :- Belladonna, its scientic name is :- Atropa Belladonna
+plant name is :- Bells Of Ireland, its scientic name is :- Moluccella laevis
+plant name is :- Bergamot, its scientic name is :- Monarda didyma
+plant name is :- Bergenia, its scientic name is :- Bergenia cordifolia
+plant name is :- Better Boy Tomato, its scientic name is :- Solanum lycopersicum ‘Better Boy’
+plant name is :- Bidens, its scientic name is :- Bidens
+plant name is :- Big Bluestem, its scientic name is :- Andropogon Gerardii
+plant name is :- Bigleaf Magnolia, its scientic name is :- Magnolia macrophylla
+plant name is :- Bigleaf Periwinkle, its scientic name is :- Vinca Major
+plant name is :- Bird Of Paradise, its scientic name is :- Strelitzia reginae
+plant name is :- Bird's Nest Fern, its scientic name is :- Asplenium nidus
+plant name is :- Black Ash, its scientic name is :- Fraxinus nigra
+plant name is :- Black Bamboo, its scientic name is :- Phyllostachys nigra
+plant name is :- Black Birch, its scientic name is :- Betula lenta
+plant name is :- Black Diamond Watermelon, its scientic name is :- Citrullus lanatus ‘Black Diamond’
+plant name is :- Black Elderberry, its scientic name is :- Sambucus canadensis
+plant name is :- Black Foot, its scientic name is :- Melampodium
+plant name is :- Black Hills Spruce, its scientic name is :- Picea glauca ‘Densata’
+plant name is :- Black Huckleberry, its scientic name is :- Gaylussacia baccata
+plant name is :- Black Lace Elderberry, its scientic name is :- Sambucus nigra 'eva'
+plant name is :- Black Mustard, its scientic name is :- Brassica nigra
+plant name is :- Black Sapote, its scientic name is :- Diospyros nigra
+plant name is :- Black Willow, its scientic name is :- Salix nigra
+plant name is :- Black-Eyed Susan Vine, its scientic name is :- Thunbergia alata
+plant name is :- Blackberry, its scientic name is :- Rubus fruticosus
+plant name is :- Blackberry Lily, its scientic name is :- Iris domestica
+plant name is :- Blackhaw Viburnum, its scientic name is :- Viburnum prunifolium
+plant name is :- Blanket Flower, its scientic name is :- Gaillardia x grandiflora
+plant name is :- Bleeding Heart, its scientic name is :- Lamprocapnos spectabilis
+plant name is :- Blood Lily, its scientic name is :- Scadoxus multiflorus
+plant name is :- Bloodgood' Japanese Maple, its scientic name is :- Acer palmatum 'bloodgood'
+plant name is :- Bloomerang Lilac, its scientic name is :- Syringa x 'Penda'
+plant name is :- Bloomstruck Hydrangea, its scientic name is :- Hydrangea macrophylla 'P11HM-11'
+plant name is :- Blow Wives, its scientic name is :- Achyrachaena mollis
+plant name is :- Blue Ash, its scientic name is :- Fraxinus quadrangulata
+plant name is :- Blue Atlas Cedar, its scientic name is :- Cedrus atlantica
+plant name is :- Blue Beard, its scientic name is :- Caryopteris x clandonensi
+plant name is :- Blue Chip Butterfly Bush, its scientic name is :- Buddleia davidii
+plant name is :- Blue Daze, its scientic name is :- Evolvulus
+plant name is :- Blue Eyed Grass, its scientic name is :- Sisyrinchium angustifolium
+plant name is :- Blue Fescue, its scientic name is :- Festuca glauca
+plant name is :- Blue Flag Iris, its scientic name is :- Iris versicolor
+plant name is :- Blue Mistflower, its scientic name is :- Conoclinium coelestinum
+plant name is :- Blue Oat Grass, its scientic name is :- Helictotrichon sempervirens
+plant name is :- Blue Princess Holly, its scientic name is :- Ilex x meserveae'blue princess'
+plant name is :- Blue Rug Juniper, its scientic name is :- Juniperus horizontalis 'wiltonii'
+plant name is :- Blue Salvia, its scientic name is :- Salvia farinacea
+plant name is :- Blue Spruce, its scientic name is :- Picea pungens
+plant name is :- Blue Star Creeper, its scientic name is :- Isotoma fluviatilis
+plant name is :- Blue Star Juniper, its scientic name is :- Juniperus squamata'blue star'
+plant name is :- Blue Torch Cactus, its scientic name is :- Pilosocereus
+plant name is :- Blueberries, its scientic name is :- Vaccinium 
+plant name is :- Bobo Hydrangea, its scientic name is :- Hydrangea paniculata 'Ilvobo' BOBO
+plant name is :- Bog Onion, its scientic name is :- Arisaema triphyllum
+plant name is :- Bok Choy, its scientic name is :- Brassica rapa
+plant name is :- Boneset, its scientic name is :- Eupatorium perfoliatum
+plant name is :- Bonsai Pine, its scientic name is :- Pinus bonsai
+plant name is :- Borage, its scientic name is :- Borago officinalis
+plant name is :- Boston Fern, its scientic name is :- Nephrolepsis exalta 'bostoniensis'
+plant name is :- Boston Ivy, its scientic name is :- Parthenocissus tricuspidata
+plant name is :- Bottlebrush, its scientic name is :- Callistemon
+plant name is :- Bougainvillea, its scientic name is :- Bougainvillea
+plant name is :- Boxelder, its scientic name is :- Acer negundo
+plant name is :- Boxwood, its scientic name is :- Buxus 
+plant name is :- Brahmi, its scientic name is :- Bacopa monnieri
+plant name is :- Brain Cactus, its scientic name is :- Stenocactus multicostatus
+plant name is :- Brass Buttons, its scientic name is :- Leptinella squalida
+plant name is :- Bridal Wreath, its scientic name is :- Spiraea prunifolia
+plant name is :- Bright Eyes, its scientic name is :- Thunbergia alata
+plant name is :- Broccoli, its scientic name is :- Brassica oleracea
+plant name is :- Bromeliad, its scientic name is :- Bromeliaceae genera
+plant name is :- Broom, its scientic name is :- Cytisus and genista 
+plant name is :- Browallia, its scientic name is :- Browallia speciosa
+plant name is :- Brown Betty, its scientic name is :- Rudbeckia hirta
+plant name is :- Brown-Eyed Susan, its scientic name is :- Rudbeckia triloba
+plant name is :- Brugmansia, its scientic name is :- Brugmansia
+plant name is :- Brunnera, its scientic name is :- Brunnera macrophylla
+plant name is :- Brussels Sprouts, its scientic name is :- Brassica oleracea
+plant name is :- Bulbous Air Plant, its scientic name is :- Tillandsia bulbosa
+plant name is :- Bulrush, its scientic name is :- Typha latifolia
+plant name is :- Bunny Ear Cactus, its scientic name is :- Opuntia microdasys
+plant name is :- Bur Oak, its scientic name is :- Quercus macrocarpa
+plant name is :- Burro's Tail, its scientic name is :- Sedum morganianum
+plant name is :- Buttercrunch Lettuce, its scientic name is :- Latuca sativa var. capitata
+plant name is :- Buttercup Winter Hazel, its scientic name is :- Corylopsis pauciflora
+plant name is :- Butterfly Bush, its scientic name is :- Buddleia davidii
+plant name is :- Butterfly Orchid, its scientic name is :- Psychopsis
+plant name is :- Butterfly Weed, its scientic name is :- Asclepias tuberosa
+plant name is :- Butternut Squash, its scientic name is :- Cucurbita moschata
+plant name is :- Cabbage, its scientic name is :- Brassica oleracea
+plant name is :- Cactus, its scientic name is :- Cactaceae
+plant name is :- Caladium, its scientic name is :- Caladium
+plant name is :- Calamus, its scientic name is :- Acorus
+plant name is :- Calathea 'White Fusion', its scientic name is :- Calathea lietzei
+plant name is :- Calendula, its scientic name is :- Calendula officinalis
+plant name is :- Calibrachoa, its scientic name is :- Calibrachoa group
+plant name is :- California Fan Palms, its scientic name is :- Washingtonia filifera
+plant name is :- California Juniper, its scientic name is :- Juniperus californica
+plant name is :- California Lilac, its scientic name is :- Ceanothus
+plant name is :- Callery Pear, its scientic name is :- Prunus calleryana
+plant name is :- Calypso Orchid, its scientic name is :- Calypso bulbosa
+plant name is :- Camellia, its scientic name is :- Camellia 
+plant name is :- Camperdown Elm, its scientic name is :- Ulmus glabra 'camperdownii'
+plant name is :- Camphor, its scientic name is :- Cinnamomum camphora
+plant name is :- Campion, its scientic name is :- Silene
+plant name is :- Canada Wild Rye, its scientic name is :- Elymus canadensis
+plant name is :- Candlestick Plant, its scientic name is :- Plectranthus barbatus
+plant name is :- Candy Corn Plant, its scientic name is :- Cuphea micropetala
+plant name is :- Candytuft, its scientic name is :- Iberis sempervirens
+plant name is :- Canna, its scientic name is :- Canna
+plant name is :- Canna Lily, its scientic name is :- Canna x generalis
+plant name is :- Cantaloupe, its scientic name is :- Cucumis melo
+plant name is :- Canterbury Bells, its scientic name is :- Campanula medium
+plant name is :- Cape Honeysuckle, its scientic name is :- Tecoma capensis
+plant name is :- Caper Bush, its scientic name is :- Capparis spinosa
+plant name is :- Cardamom, its scientic name is :- Elettaria Cardamomum
+plant name is :- Cardboard Palm, its scientic name is :- Zamia furfuracea
+plant name is :- Cardinal Climber, its scientic name is :- Ipomoea multifida
+plant name is :- Cardinal Flower, its scientic name is :- Lobelia cardinalis
+plant name is :- Carnations, its scientic name is :- Dianthus caryophyllus
+plant name is :- Carolina Allspice, its scientic name is :- Calycanthus floridus
+plant name is :- Carolina Silverbell, its scientic name is :- Halesia carolina
+plant name is :- Carpet Grass, its scientic name is :- Axonopus fissifolius
+plant name is :- Carrion Flower, its scientic name is :- Huernia zebrina
+plant name is :- Carrot, its scientic name is :- Daucus carota
+plant name is :- Casa Blanca Lily, its scientic name is :- Lilium 'Casa Blanca'
+plant name is :- Cassia, its scientic name is :- Senna didymobotrya
+plant name is :- Cast Iron Plant, its scientic name is :- Aspidistra elatior
+plant name is :- Cat's Claw, its scientic name is :- Gloriosa superba
+plant name is :- Catalpa, its scientic name is :- Catalpa
+plant name is :- Catalpa, its scientic name is :- Catalpa speciosa
+plant name is :- Catawba Rhododendron, its scientic name is :- Rhododendron catawbiense
+plant name is :- Catmint, its scientic name is :- Nepeta 
+plant name is :- Catnip, its scientic name is :- Nepeta cataria
+plant name is :- Cauliflower, its scientic name is :- Brassica oleracea
+plant name is :- Cayenne Pepper, its scientic name is :- Capsicum annuum
+plant name is :- Cebu Blue Pothos, its scientic name is :- Epipremnum pinnatum 'Cebu Blue'
+plant name is :- Cedar Of Lebanon, its scientic name is :- Cedrus libani
+plant name is :- Celebrity Tomato, its scientic name is :- Solanum lycopersicum, cultivar 'Celebrity'
+plant name is :- Centipede Grass, its scientic name is :- Eremochloa ophiuroides
+plant name is :- Century Plant, its scientic name is :- Agave americana
+plant name is :- Cherimoya, its scientic name is :- Annona cherimola
+plant name is :- Cherry Laurel, its scientic name is :- Prunus laurocerasus
+plant name is :- Cherry Plum, its scientic name is :- Prunus cerasifera
+plant name is :- Cherry Tomato, its scientic name is :- Solanum lycopersicum
+plant name is :- Cherry Tree Bonsai, its scientic name is :- Prunus bonsai
+plant name is :- Chia, its scientic name is :- Salvia hispanica
+plant name is :- Chicken Gizzard, its scientic name is :- Iresine herbstii
+plant name is :- Chilean Bellflower, its scientic name is :- Nolana
+plant name is :- Chili, its scientic name is :- Capsicum 
+plant name is :- China Doll Plant, its scientic name is :- Radermachera sinica
+plant name is :- China Rose, its scientic name is :- Hibiscus rosa-sinensis
+plant name is :- Chinese Chestnut, its scientic name is :- Castanea mollissima
+plant name is :- Chinese Dwarf Banana Tree, its scientic name is :- Musa lasiocarpa
+plant name is :- Chinese Elm, its scientic name is :- Ulmus parvifolia
+plant name is :- Chinese Evergreen, its scientic name is :- Aglaonema commutatum
+plant name is :- Chinese Fan Palm, its scientic name is :- Livistona chinensis
+plant name is :- Chinese Flame Tree, its scientic name is :- Koelreuteria bipinnata
+plant name is :- Chinese Flowering Quince, its scientic name is :- Chaenomeles speciosa
+plant name is :- Chinese Foxgloves, its scientic name is :- Rehmannia elata
+plant name is :- Chinese Holly, its scientic name is :- Ilex cornuta
+plant name is :- Chinese Juniper, its scientic name is :- Juniperus chinensis
+plant name is :- Chinese Lantern, its scientic name is :- Physalis alkekengi
+plant name is :- Chinese Long Beans, its scientic name is :- Vigna unguiculata
+plant name is :- Chinese Money Plant, its scientic name is :- Pilea peperomioides
+plant name is :- Chinese Parsley, its scientic name is :- Coriandrum sativum
+plant name is :- Chinese Peony, its scientic name is :- Paeonia lactiflora
+plant name is :- Chinese Pistache, its scientic name is :- Pistacia chinensis
+plant name is :- Chinese Snowball, its scientic name is :- Viburnum macrocephalum
+plant name is :- Chinese Wisteria, its scientic name is :- Wisteria sinensis
+plant name is :- Chinese Yew, its scientic name is :- Taxus chinensis
+plant name is :- Chinkapin Oak, its scientic name is :- Quercus muehlenbergii
+plant name is :- Chives, its scientic name is :- Allium schoenoprasum
+plant name is :- Chocolate Cosmos, its scientic name is :- Cosmos atrosanguineus
+plant name is :- Chocolate Mint, its scientic name is :- Mentha x piperita 'chocolate'
+plant name is :- Chocolate Vine, its scientic name is :- Akebia quinata
+plant name is :- Chokecherry, its scientic name is :- Prunus virginiana
+plant name is :- Chrysanthemum, its scientic name is :- Chrysanthemum morifolium
+plant name is :- Cilantro, its scientic name is :- Coriandrum sativum
+plant name is :- Cineraria, its scientic name is :- Pericallis cruenta
+plant name is :- Cinnamon, its scientic name is :- Cinnamomum
+plant name is :- Citronella Grass, its scientic name is :- Cymbopogon nardus
+plant name is :- Clifford Moor Variegated Catchfly, its scientic name is :- Silene dioica
+plant name is :- Climbing Hydrangea, its scientic name is :- Hydrangea anomala
+plant name is :- Climbing Onion, its scientic name is :- Bowiea volubilis
+plant name is :- Clivia, its scientic name is :- Clivia miniata
+plant name is :- Clove, its scientic name is :- Syzygium aromaticum
+plant name is :- Coast Redwood, its scientic name is :- Sequoia sempervirens
+plant name is :- Coastal Doghobble, its scientic name is :- Leucothoe axillaris
+plant name is :- Cobra Lily, its scientic name is :- Darlingtonia californica
+plant name is :- Cockleshell, its scientic name is :- Encyclia cochleata
+plant name is :- Cockscomb, its scientic name is :- Celosia argentea var. cristata
+plant name is :- Coconut Palm, its scientic name is :- Cocos nucifera
+plant name is :- Coffee Plant, its scientic name is :- Coffea arabica
+plant name is :- Coleus, its scientic name is :- Plectranthus scutellarioides
+plant name is :- Collard Greens, its scientic name is :- Brassica oleracea
+plant name is :- Columbine, its scientic name is :- Aquilegia
+plant name is :- Columbine, its scientic name is :- Aquilegia 
+plant name is :- Comfrey, its scientic name is :- Symphytum officinale
+plant name is :- Common Bleeding Heart, its scientic name is :- Lamprocapnos spectabilis
+plant name is :- Common Hazelnut Tree, its scientic name is :- Corylus avellana
+plant name is :- Common Hollyhock, its scientic name is :- Alcea rosea
+plant name is :- Common Honeysuckle, its scientic name is :- Lonicera periclymenum
+plant name is :- Common Ivy, its scientic name is :- Hedera helix
+plant name is :- Common Juniper, its scientic name is :- Juniperus communis
+plant name is :- Common Mugwort, its scientic name is :- Artemisia vulgaris
+plant name is :- Common Quince, its scientic name is :- Cydonia oblonga
+plant name is :- Common Rue, its scientic name is :- Ruta graveolens
+plant name is :- Common Tansy, its scientic name is :- Tanacetum vulgare
+plant name is :- Coneflower, its scientic name is :- Echinacea 'firebird'
+plant name is :- Contorted Filbert, its scientic name is :- Corylus avellana 'contorta'
+plant name is :- Coral Aloe, its scientic name is :- Aloe striata
+plant name is :- Coral Bean, its scientic name is :- Erythrina herbacea
+plant name is :- Coral Bells, its scientic name is :- Heuchera
+plant name is :- Coral Honeysuckle, its scientic name is :- Lonicera sempervirens
+plant name is :- Cordyline, its scientic name is :- Cordyline terminalis
+plant name is :- Corkscrew Vine, its scientic name is :- Vigna caracalla
+plant name is :- Corkscrew Willow, its scientic name is :- Salix matsudana 'tortuosa'
+plant name is :- Corn Plant, its scientic name is :- Dracaena deremensis
+plant name is :- Corn Salad, its scientic name is :- Valerianella locusta
+plant name is :- Cornelian Cherry, its scientic name is :- Cornus mas
+plant name is :- Corsican Mint, its scientic name is :- Mentha requienii
+plant name is :- Cosmos, its scientic name is :- Cosmos sulphureus
+plant name is :- Cota Tinctoria, its scientic name is :- Anthemis tinctoria
+plant name is :- Cotton Rose, its scientic name is :- Hibiscus mutabilis
+plant name is :- Cowpea, its scientic name is :- Vigna unguiculata
+plant name is :- Creeping Bellflower, its scientic name is :- Campanula rapunculoides
+plant name is :- Creeping Juniper, its scientic name is :- Juniperus horizontalis
+plant name is :- Creeping Mazus, its scientic name is :- Mazus reptans
+plant name is :- Creeping Phlox, its scientic name is :- Phlox stolonifera
+plant name is :- Creeping Speedwell, its scientic name is :- Veronica filiformis
+plant name is :- Creeping Thyme, its scientic name is :- Thymus 
+plant name is :- Creeping Wire Vine, its scientic name is :- Muehlenbeckia axillaris
+plant name is :- Creeping Zinnia, its scientic name is :- Sanvitalia procumbens
+plant name is :- Crepe Myrtle, its scientic name is :- Lagerstroemia indica
+plant name is :- Crimson Queen Japanese Maple Tree, its scientic name is :- Acer palmatum
+plant name is :- Crocodile Fern, its scientic name is :- Microsorum musifolium
+plant name is :- Crocus, its scientic name is :- Crocus 
+plant name is :- Crossandra, its scientic name is :- Crossandra infundibuliformis
+plant name is :- Croton, its scientic name is :- Codiaeum variegatum
+plant name is :- Crown Daisy, its scientic name is :- Glebionis coronaria
+plant name is :- Crown Imperial, its scientic name is :- Fritillaria imperialis
+plant name is :- Cryptanthus, its scientic name is :- Cryptanthus 
+plant name is :- Cucamelon, its scientic name is :- Melothia scabra
+plant name is :- Cucumber, its scientic name is :- Cucumis sativus
+plant name is :- Cucumber Tree, its scientic name is :- Magnolia acuminata
+plant name is :- Cup And Saucer Vine, its scientic name is :- Cobaea scandens
+plant name is :- Cup Flower, its scientic name is :- Nierembergia
+plant name is :- Cup Plant, its scientic name is :- Silphium perfoliatum
+plant name is :- Curry Plant, its scientic name is :- Murraya koenigii
+plant name is :- Cyclamen, its scientic name is :- Cyclamen persicum
+plant name is :- Cymbidium Orchid, its scientic name is :- Cymbidium
+plant name is :- Cypress Vine, its scientic name is :- Ipomoea quamoclit
+plant name is :- Daffodil, its scientic name is :- Narcissus
+plant name is :- Dahlia, its scientic name is :- Dahlia
+plant name is :- Dahoon Holly, its scientic name is :- Ilex cassine
+plant name is :- Dalmatian Bellflower, its scientic name is :- Campanula portenschlagiana
+plant name is :- Damianita Daisies, its scientic name is :- Chrysactinia mexicana
+plant name is :- Daphne, its scientic name is :- Daphne
+plant name is :- Darjeeling Banana Tree, its scientic name is :- Musa sikkimensi
+plant name is :- Dark Opal Basil, its scientic name is :- Ocimum basilicum 'dark opal'
+plant name is :- Date Palm, its scientic name is :- Phoenix dactylifera
+plant name is :- Dawn Redwood, its scientic name is :- Metasequoia glyptostroboides
+plant name is :- Daylily, its scientic name is :- Hemerocallis
+plant name is :- Dendrobium Orchid, its scientic name is :- Dendrobium 
+plant name is :- Deodar Cedar, its scientic name is :- Cedrus deodara
+plant name is :- Desert Rose, its scientic name is :- Adenium obesum
+plant name is :- Desert Sage, its scientic name is :- Salvia dorrii
+plant name is :- Desert Willow, its scientic name is :- Chilopsis linearis
+plant name is :- Diamond Frost Euphorbia, its scientic name is :- Euphorbia hypericifolia
+plant name is :- Dianthus, its scientic name is :- Dianthus spp.
+plant name is :- Dieffenbachia, its scientic name is :- Dieffenbachia 
+plant name is :- Dittany, its scientic name is :- Dictamnus albus
+plant name is :- Dog Rose, its scientic name is :- Rosa canina
+plant name is :- Dog Tail Cactus, its scientic name is :- Strophocactus testudo
+plant name is :- Doll's Eyes, its scientic name is :- Actaea pachypoda
+plant name is :- Doublefile Viburnum, its scientic name is :- Viburnum plicatum
+plant name is :- Dr. Ruppel Clematis, its scientic name is :- Clematis 'Dr. Ruppel'
+plant name is :- Dracaena, its scientic name is :- Dracaena
+plant name is :- Dragon Lily, its scientic name is :- Dracunculus vulgaris
+plant name is :- Dragon Plant, its scientic name is :- Dracaena marginata
+plant name is :- Dragon Tree, its scientic name is :- Dracaena draco
+plant name is :- Dragonfruit, its scientic name is :- Selenicereus undatas
+plant name is :- Duckweed, its scientic name is :- Lemna minor
+plant name is :- Duranta, its scientic name is :- Duranta erecta
+plant name is :- Dusty Miller, its scientic name is :- Jacobaea maritima
+plant name is :- Dutch Iris, its scientic name is :- Iris x hollandica
+plant name is :- Dutchman's Breeches, its scientic name is :- Dicentra cucullaria
+plant name is :- Dutchman's Pipe Vine, its scientic name is :- Aristolochia macrophylla
+plant name is :- Dwarf Alberta Spruce, its scientic name is :- Picea glauca 'Conica'
+plant name is :- Dwarf Birch, its scientic name is :- Betula nana
+plant name is :- Dwarf Bush Honeysuckle, its scientic name is :- Diervilla lonicera
+plant name is :- Dwarf Flowering Almond, its scientic name is :- Prunus glandulosa
+plant name is :- Early Girl Tomato, its scientic name is :- Solanum lycopersicum ‘Early Girl’
+plant name is :- Early Harvest Apple Tree, its scientic name is :- Malus domestica
+plant name is :- Easter Lily, its scientic name is :- Lilium longiflorum
+plant name is :- Eastern Cottonwood, its scientic name is :- Populus deltoides
+plant name is :- Eastern Or Canadian Hemlock, its scientic name is :- Tsuga canadensis
+plant name is :- Eastern White Pine, its scientic name is :- Pinus strobus
+plant name is :- Echeveria, its scientic name is :- Echeveria
+plant name is :- Echeveria Peacockii, its scientic name is :- Echeveria Peacockii
+plant name is :- Edelweiss, its scientic name is :- Leontopodium alpinum
+plant name is :- Egyptian Papyrus, its scientic name is :- Cyperus papyrus
+plant name is :- Egyptian Star Cluster, its scientic name is :- Pentas lanceolata
+plant name is :- Elecampane, its scientic name is :- Inula helenium
+plant name is :- Elephant Bush, its scientic name is :- Portulacaria afra
+plant name is :- Elephant's Foot, its scientic name is :- Beaucarnea recurvata
+plant name is :- Emerald Gaiety Euonymus, its scientic name is :- Euonymus fortunei 'Emerald Gaiety'
+plant name is :- Emerald Green Arborvitae, its scientic name is :- Thuja occidentalis
+plant name is :- Empress Trees, its scientic name is :- Paulownia tomentosa
+plant name is :- Endless Summer Hydrangea, its scientic name is :- Hydrangea macrophylla 'endless summer'
+plant name is :- English Bluebells, its scientic name is :- Hyacinthoides non-scripta
+plant name is :- English Daisy, its scientic name is :- Bellis perennis
+plant name is :- English Daisy, its scientic name is :- Bellis perennis
+plant name is :- English Hawthorn, its scientic name is :- Crataegus laevigata
+plant name is :- English Holly, its scientic name is :- Ilex aquifolium
+plant name is :- English Ivy, its scientic name is :- Hedera helix
+plant name is :- English Lavender, its scientic name is :- Lavandula angustifolia
+plant name is :- English Oak, its scientic name is :- Quercus robur
+plant name is :- English Thyme, its scientic name is :- Thymus vulgaris
+plant name is :- English Walnut, its scientic name is :- Juglans regia
+plant name is :- Estragon, its scientic name is :- Artemisia dracunculus
+plant name is :- Eucalyptus, its scientic name is :- Eucalyptus cinerea
+plant name is :- Euphorbia, its scientic name is :- Euphorbia 
+plant name is :- Eureka Lemon Tree, its scientic name is :- Citrus x limon 'eureka'
+plant name is :- European Ash, its scientic name is :- Fraxinus excelsior
+plant name is :- European Beech, its scientic name is :- Fagus sylvatica
+plant name is :- Evening Primrose, its scientic name is :- Oenothera biennis
+plant name is :- Fairy Duster, its scientic name is :- Calliandra eriophylla
+plant name is :- False Aralia, its scientic name is :- Schefflera elegantissima
+plant name is :- False Cypress, its scientic name is :- Chamaecyparis
+plant name is :- False Hellebore, its scientic name is :- Veratrum viride
+plant name is :- False Holly, its scientic name is :- Osmanthus
+plant name is :- False Indigo, its scientic name is :- Baptisia australis
+plant name is :- False Palm, its scientic name is :- Dracaena fragrans
+plant name is :- False Sunflower, its scientic name is :- Heliopsis helianthoides
+plant name is :- Fan Flower, its scientic name is :- Scaevola aemula
+plant name is :- Fava Bean, its scientic name is :- Vicia faba
+plant name is :- Feather Reed Grass, its scientic name is :- Calamagrostis x acutiflora
+plant name is :- Fennel, its scientic name is :- Foeniculum vulgare
+plant name is :- Fiddle-Leaf Fig, its scientic name is :- Ficus lyrata
+plant name is :- Fig Tree, its scientic name is :- Ficus benjamina
+plant name is :- Fire Island Hosta, its scientic name is :- Hosta 'Fire Island'
+plant name is :- Firebush, its scientic name is :- Hamelia patens
+plant name is :- Firecracker Plant, its scientic name is :- Cuphea ignea
+plant name is :- Firepower Nandina, its scientic name is :- Nandina domestica 'firepower'
+plant name is :- Firespike, its scientic name is :- Odontonema strictum
+plant name is :- Firethorn, its scientic name is :- Pyracantha coccinea
+plant name is :- Fishbone Cactus, its scientic name is :- Disocactus anguliger
+plant name is :- Fittonia, its scientic name is :- Fittonia albivenis
+plant name is :- Flamingo Willow, its scientic name is :- Salix integra 'flamingo'
+plant name is :- Flax, its scientic name is :- Linum usitatissimum
+plant name is :- Flax Lily, its scientic name is :- Dianella tasmanica
+plant name is :- Flower of Bristol, its scientic name is :- Lychnis chalcedonica
+plant name is :- Flowering Crabapple, its scientic name is :- Malus rosaceae
+plant name is :- Flowering Ginger, its scientic name is :- Zingiberaceae
+plant name is :- Flowering Tobacco, its scientic name is :- Nicotiana alata
+plant name is :- Foamflower, its scientic name is :- Tiarella cordifolia
+plant name is :- Foothill Sedge, its scientic name is :- Carex tumulicola
+plant name is :- Forest Pansy Redbud, its scientic name is :- Cercis canadensis 'Forest Pansy'
+plant name is :- Forget-Me-Not, its scientic name is :- Myosotis sylvatica
+plant name is :- Forsythia, its scientic name is :- Forsythia 
+plant name is :- Four O'Clock Plant, its scientic name is :- Mirabilis jalapa
+plant name is :- Foxtail Fern, its scientic name is :- Asparagus densiflorus
+plant name is :- Foxtail Pine, its scientic name is :- Pinus balfouriana
+plant name is :- Frances Williams Hosta, its scientic name is :- Hosta sieboldiana 'Frances Williams'
+plant name is :- Franklin Tree, its scientic name is :- Franklinia alatamaha
+plant name is :- Freesia, its scientic name is :- Freesia
+plant name is :- French Lavender, its scientic name is :- Lavandula dentata
+plant name is :- Fumewort, its scientic name is :- Corydalis canadensis
+plant name is :- Fuschia, its scientic name is :- Fuschia
+plant name is :- Galaxy Petunia, its scientic name is :- Petunia 'night sky'
+plant name is :- Garden Phlox, its scientic name is :- Phlox paniculata
+plant name is :- Gardenia, its scientic name is :- Gardenia jasminoides
+plant name is :- Garlic, its scientic name is :- Allium Sativum
+plant name is :- Garlic Chives, its scientic name is :- Allium tuberosum
+plant name is :- Garlic Mustard, its scientic name is :- Alliaria petiolata
+plant name is :- Gasteria, its scientic name is :- Gasteria 
+plant name is :- Gayfeather, its scientic name is :- Liatris spicata 'Kobold'
+plant name is :- Geraniums, its scientic name is :- Geranium 
+plant name is :- Gerber, its scientic name is :- Gerbera jamesonii
+plant name is :- German Chamomile, its scientic name is :- Matricaria recutita
+plant name is :- Ghost Echeveria, its scientic name is :- Echeveria lilaciana
+plant name is :- Ghost Pepper, its scientic name is :- Bhut jolokia
+plant name is :- Ghost Plant, its scientic name is :- Graptopetalum paraguayense
+plant name is :- Giant Fleece Flower, its scientic name is :- Persicaria polymorpha
+plant name is :- Giant Hogweed, its scientic name is :- Heracleum mantegazzianum
+plant name is :- Giant Hyssop, its scientic name is :- Agastache scrophulariifolia
+plant name is :- Giant Onion, its scientic name is :- Allium giganteum
+plant name is :- Ginger Flower, its scientic name is :- Etlingera elatior
+plant name is :- Ginger Root, its scientic name is :- Zingiber officinale
+plant name is :- Ginseng Ficus, its scientic name is :- Ficus retusa and ficus microcarpa
+plant name is :- Glacier Lily, its scientic name is :- Erythronium albidum
+plant name is :- Globe Amaranth, its scientic name is :- Gomphrena globosa
+plant name is :- Globe Thistle, its scientic name is :- Echinops
+plant name is :- Glory Flower, its scientic name is :- Eccremocarpus scaber
+plant name is :- Goat Willow, its scientic name is :- Salix caprea
+plant name is :- Goatsbeard, its scientic name is :- Aruncus dioicus
+plant name is :- Gold Dust, its scientic name is :- Aucuba japonica
+plant name is :- Gold Mound Spirea, its scientic name is :- Spiraea japonica
+plant name is :- Golden Alexander, its scientic name is :- Zizia aurea
+plant name is :- Golden Bamboo, its scientic name is :- Phyllostachys aurea
+plant name is :- Golden Barberry, its scientic name is :- Berberis thunbergii 'aurea'
+plant name is :- Golden Barrel Cactus, its scientic name is :- Echinocactus grusonii
+plant name is :- Golden Chain Tree, its scientic name is :- Laburnum
+plant name is :- Golden Dead Nettle, its scientic name is :- Lamium galeobdolon or lamiastrum galeobdolon
+plant name is :- Golden Larch, its scientic name is :- Pseudolarix amabilis
+plant name is :- Golden Oriole' Azalea, its scientic name is :- Rhododendron 'golden oriole'
+plant name is :- Golden Star, its scientic name is :- Chrysogonum virginianum
+plant name is :- Goldenrod, its scientic name is :- Solidago
+plant name is :- Goldfish Plant, its scientic name is :- Nematanthus gregarious
+plant name is :- Goldflame Spirea, its scientic name is :- Spiraea japonica 'goldflame'
+plant name is :- Gooseberry, its scientic name is :- Ribes uva-crispa
+plant name is :- Goutweed, its scientic name is :- Aegopodium podagraria
+plant name is :- Grape Hyacinth, its scientic name is :- Muscari armeniacum
+plant name is :- Grass Lily, its scientic name is :- Ornithogalum umbellatum
+plant name is :- Gravenstein Apple Tree, its scientic name is :- Malus gravenstein
+plant name is :- Greek Juniper, its scientic name is :- Juniperus excelsa
+plant name is :- Greek Valerian, its scientic name is :- Polemonium caeruleum
+plant name is :- Green Ash, its scientic name is :- Fraxinus pennsylvanica
+plant name is :- Green Carpet, its scientic name is :- Herniaria glabra
+plant name is :- Green Giant Arborvitae, its scientic name is :- Thuja standishii x plicata ‘Green Giant’
+plant name is :- Grey Dogwood, its scientic name is :- Cornus racemosa
+plant name is :- Ground Cherry, its scientic name is :- Physalis pruinosa
+plant name is :- Guava, its scientic name is :- Psidium guajava
+plant name is :- Gum Weed, its scientic name is :- Silphium laciniatum
+plant name is :- Hackberry Tree, its scientic name is :- Celtis occidentalis
+plant name is :- Hakone Grass, its scientic name is :- Hakonechloa macra 'aureola'
+plant name is :- Halcyon Hosta, its scientic name is :- Hosta 'Halcyon'
+plant name is :- Hardneck Garlic, its scientic name is :- Allium sativum
+plant name is :- Hardy Hibiscus, its scientic name is :- Hibiscus moscheutos
+plant name is :- Hardy Kiwi, its scientic name is :- Actinidia arguta
+plant name is :- Hardy Mum, its scientic name is :- Chrysanthemum morifolium
+plant name is :- Harebells, its scientic name is :- Campanula rotundifolia
+plant name is :- Hawthorn, its scientic name is :- Crataegus
+plant name is :- Heartleaf Philodendron, its scientic name is :- Philodendron scandens
+plant name is :- Heather, its scientic name is :- Calluna vulgaris
+plant name is :- Heavenly Bamboo, its scientic name is :- Nandina domestica
+plant name is :- Hebe Shrub, its scientic name is :- Hebe
+plant name is :- Hedgehog Cactus, its scientic name is :- Echinocereus 
+plant name is :- Heirloom Tomato, its scientic name is :- Solanum lycopersicum
+plant name is :- Heliconia, its scientic name is :- Heliconia 
+plant name is :- Heliotrope, its scientic name is :- Heliotropium
+plant name is :- Heliotrope, its scientic name is :- Heliotropium arborescens
+plant name is :- Hellebore, its scientic name is :- Helleborus 
+plant name is :- Hens And Chicks, its scientic name is :- Sempervivum tectorum
+plant name is :- Hibiscus, its scientic name is :- Hibiscus
+plant name is :- Hibiscus, its scientic name is :- Hibiscus moscheutos
+plant name is :- Higan Cherry, its scientic name is :- Prunus subhirtella
+plant name is :- Himalayan Birch, its scientic name is :- Betula utilis
+plant name is :- Hindu Rope Plant, its scientic name is :- Hoya carnosa 'compacta'
+plant name is :- Hinoki Cypress, its scientic name is :- Chamaecyparis obtusa
+plant name is :- Holiday Cactus, its scientic name is :- Schlumbergera truncata
+plant name is :- Hollyberry, its scientic name is :- Ilex verticillata
+plant name is :- Hollyhock, its scientic name is :- Alcea
+plant name is :- Hollyhock Mallow, its scientic name is :- Malva alcea
+plant name is :- Holy Basil, its scientic name is :- Ocimum tenuiflorum
+plant name is :- Honeywort, its scientic name is :- Cerinthe
+plant name is :- Hong Kong Orchid Tree, its scientic name is :- Bauhinia × blakeana
+plant name is :- Hoptree, its scientic name is :- Ptelea trifoliata
+plant name is :- Hornbeam Maple, its scientic name is :- Acer carpinifolium
+plant name is :- Horse Chestnut Tree, its scientic name is :- Aesculus hippocastanum
+plant name is :- Horseradish, its scientic name is :- Armoracia rusticana
+plant name is :- Horsetail, its scientic name is :- Equisetum hyemale
+plant name is :- Hosta, its scientic name is :- Hosta
+plant name is :- Hoya Obovata, its scientic name is :- Hoya obovata
+plant name is :- Hyacinth, its scientic name is :- Hyacinthus orientalis
+plant name is :- Hybrid Tea Roses, its scientic name is :- Rosa x hybrida
+plant name is :- Hydrangea, its scientic name is :- Hydrangea 
+plant name is :- Hydrangea 'Shooting Star', its scientic name is :- Hydrangea macrophylla 'hanabi'
+plant name is :- Ice Plant, its scientic name is :- Delosperma
+plant name is :- Iceland Poppy, its scientic name is :- Papaver nudicaule
+plant name is :- Impatiens, its scientic name is :- Impatiens 
+plant name is :- Imperial Red Philodendron, its scientic name is :- Philodendron erubescens
+plant name is :- Incrediball Hydrangea, its scientic name is :- Hydrangea arborescens 'Abetwo' INCREDIBALL
+plant name is :- Indian Grass, its scientic name is :- Sorghastrum nutans
+plant name is :- Indian Hawthorn, its scientic name is :- Rhaphiolepis indica
+plant name is :- Indian Paintbrush, its scientic name is :- Castilleja cocinea
+plant name is :- Inkberry Holly, its scientic name is :- Ilex glabra
+plant name is :- Invincibelle Spirit Hydrangea, its scientic name is :- Hydrangea arborescens 'NCHA1'
+plant name is :- Iris Flowers, its scientic name is :- Iris
+plant name is :- Irish Moss, its scientic name is :- Sagina subulata
+plant name is :- Ironwood, its scientic name is :- Carpinus caroliniana
+plant name is :- Italian Stone Pine, its scientic name is :- Pinus pinea
+plant name is :- Itoh Peony, its scientic name is :- Paeoniaceae
+plant name is :- Ivory Silk Lilac, its scientic name is :- Syringa reticulata 'Ivory Silk'
+plant name is :- Ivy Geranium, its scientic name is :- Pelargonium peltatum
+plant name is :- Ivy Tree, its scientic name is :- X fatshederalizei
+plant name is :- Jacaranda Tree, its scientic name is :- Jacaranda mimosifoila
+plant name is :- Jack Pine, its scientic name is :- Pinus banksiana
+plant name is :- Jackfruit, its scientic name is :- Artocarpus heterophyllus
+plant name is :- Jackman Clematis, its scientic name is :- Clematis 'jackmanii'
+plant name is :- Jade Plant, its scientic name is :- Crassula 
+plant name is :- Jade Plant, its scientic name is :- Crassula ovata
+plant name is :- Jalapeño Pepper, its scientic name is :- Capiscum annuum 'jalapeño'
+plant name is :- Japanese Andromeda, its scientic name is :- Pieris japonica
+plant name is :- Japanese Aralia, its scientic name is :- Fatsia japonica
+plant name is :- Japanese Barberry, its scientic name is :- Berberis thunbergii
+plant name is :- Japanese Black Pine, its scientic name is :- Pinus thunbergii
+plant name is :- Japanese Blood Grass, its scientic name is :- Imperata cylindrica
+plant name is :- Japanese Camellia, its scientic name is :- Camellia Japonica
+plant name is :- Japanese Fern Tree, its scientic name is :- Filicium decipiens
+plant name is :- Japanese Flag, its scientic name is :- Iris ensata
+plant name is :- Japanese Flowering Cherry, its scientic name is :- Prunus serrulata
+plant name is :- Japanese Forest Grass, its scientic name is :- Hakonechloa macraaureola
+plant name is :- Japanese Holly, its scientic name is :- Ilex crenata
+plant name is :- Japanese Honeysuckle, its scientic name is :- Lonicera japonica
+plant name is :- Japanese Lilac Tree, its scientic name is :- Syringa reticulata
+plant name is :- Japanese Magnolia, its scientic name is :- Magnolia liliflora
+plant name is :- Japanese Maple, its scientic name is :- Acer palmatum
+plant name is :- Japanese Maple Bonsai, its scientic name is :- Acer palmatum bonsai
+plant name is :- Japanese Pagoda, its scientic name is :- Styphnolobium japonicum
+plant name is :- Japanese Painted Fern, its scientic name is :- Athyrium nipponicum
+plant name is :- Japanese Pieris, its scientic name is :- Pieris japonica
+plant name is :- Japanese Rose, its scientic name is :- Kerria japanica
+plant name is :- Japanese Sedge, its scientic name is :- Carex morrowii
+plant name is :- Japanese Silver Grass, its scientic name is :- Miscanthus sinensis
+plant name is :- Japanese Skimmia, its scientic name is :- Skimmia japonica
+plant name is :- Japanese Stewartia, its scientic name is :- Stewartia pseudocamellia
+plant name is :- Japanese Wisteria, its scientic name is :- Wisteria Floribunda
+plant name is :- Japanese Zelkova, its scientic name is :- Zelkova serrata
+plant name is :- Jeffrey Pine, its scientic name is :- Pinus jeffreyi
+plant name is :- Jelly Bean Succulent, its scientic name is :- Sedum rubrotinctum
+plant name is :- Jewel Aloe, its scientic name is :- Aloe distans
+plant name is :- Jewelweed, its scientic name is :- Impatiens capensis
+plant name is :- Joe Pye Weed, its scientic name is :- Eutrochium purpureum
+plant name is :- Johnny Jump Up Viola, its scientic name is :- Viola tricolor
+plant name is :- Joshua Tree, its scientic name is :- Yucca Brevifolia
+plant name is :- Joyweed, its scientic name is :- Alternanthera
+plant name is :- Julia Child Roses, its scientic name is :- Rosa 'Julia Child'
+plant name is :- Juniper Bonsai, its scientic name is :- Juniperus bonsai
+plant name is :- Jupiter's Beard, its scientic name is :- Centranthus ruber
+plant name is :- Kalanchoe, its scientic name is :- Kalanchoe blossfeldiana
+plant name is :- Kale, its scientic name is :- Brassica oleracea
+plant name is :- Kangaroo Paw, its scientic name is :- Anigozanthos
+plant name is :- Katsura Tree, its scientic name is :- Cercidiphyllum japonicum
+plant name is :- Kentia Palm, its scientic name is :- Howea forsteriana
+plant name is :- Kentucky Coffee Tree, its scientic name is :- Gymnocladus dioicus
+plant name is :- Key Lime Pie Plant, its scientic name is :- Adromischus cristatus
+plant name is :- Knautia, its scientic name is :- Knautia macedonica
+plant name is :- Kobus Magnolia, its scientic name is :- Magnolia kobus
+plant name is :- Kohlrabi, its scientic name is :- Brassica oleracea
+plant name is :- Korean Fir, its scientic name is :- Abies koreana
+plant name is :- Korean Maple, its scientic name is :- Acer pseudosieboldianum
+plant name is :- Korean Pear, its scientic name is :- Pyrus pyrifolia
+plant name is :- Korean Spicebush, its scientic name is :- Viburnum carlesii
+plant name is :- Kousa Dogwood, its scientic name is :- Cornus Kousa
+plant name is :- Kudzu, its scientic name is :- Pueraria montana
+plant name is :- Kumquat, its scientic name is :- Citrus japonica
+plant name is :- Lacebark Pine, its scientic name is :- Pinus bungeana
+plant name is :- Lacecap Hydrangea, its scientic name is :- Hydrangea macrophylla
+plant name is :- Lady Ferns, its scientic name is :- Athyrium filix-femina
+plant name is :- Lady Palm, its scientic name is :- Rhapis excelsa
+plant name is :- Lady's Mantle, its scientic name is :- Alchemilla mollis
+plant name is :- Ladybells, its scientic name is :- Adenophora bulleyana
+plant name is :- Lamb's Ear, its scientic name is :- Stachys byzantina
+plant name is :- Lamb's Ears, its scientic name is :- Stachys byzantina
+plant name is :- Lantana, its scientic name is :- Lantana camara
+plant name is :- Larch, its scientic name is :- Larix 
+plant name is :- Larkspur, its scientic name is :- Delphinium
+plant name is :- Laurel, its scientic name is :- Laurus nobilis
+plant name is :- Lavender, its scientic name is :- Lavandula 
+plant name is :- Leek, its scientic name is :- Allium porrum
+plant name is :- Lemon Balm, its scientic name is :- Melissa officinalis
+plant name is :- Lemon Button Fern, its scientic name is :- Nephrolepis cordifolia 'Duffii'
+plant name is :- Lemon Cucumber, its scientic name is :- Cucumis sativus 'Lemon'
+plant name is :- Lemon Cypress, its scientic name is :- Cupressus macrocarpa 'goldcrest'
+plant name is :- Lemon Tree, its scientic name is :- Citrus limon
+plant name is :- Lemon Verbena, its scientic name is :- Aloysia citriodora
+plant name is :- Lemongrass, its scientic name is :- Cymbopogon citratus
+plant name is :- Lenten Rose, its scientic name is :- Helleborus x hybridus
+plant name is :- Lentil, its scientic name is :- Lens culinaris
+plant name is :- Lettuce, its scientic name is :- Lactuca sativa
+plant name is :- Leyland Cypress, its scientic name is :- Cuprocyparis leylandii
+plant name is :- Liatris, its scientic name is :- Liatris spicata
+plant name is :- Licorice Plant, its scientic name is :- Helichrysum petiolare
+plant name is :- Lightwood Tree, its scientic name is :- Acacia implexa
+plant name is :- Ligularia, its scientic name is :- Ligularia 
+plant name is :- Lilac Bush, its scientic name is :- Syringa vulgaris
+plant name is :- Lima Beans, its scientic name is :- Phaseolus lunatus
+plant name is :- Limelight Hydrangea, its scientic name is :- Hydrangea paniculata 'Limelight'
+plant name is :- Linseed, its scientic name is :- Linum usitatissimum
+plant name is :- Lipstick Palm, its scientic name is :- Cyrtostachys renda
+plant name is :- Lipstick Plant, its scientic name is :- Aeschynanthus radicans
+plant name is :- Liriope, its scientic name is :- Liriope spicata
+plant name is :- Lisbon Lemon Tree, its scientic name is :- Citrus x limon 'lisbon'
+plant name is :- Lisianthus, its scientic name is :- Eustoma grandiflorum
+plant name is :- Lithodora, its scientic name is :- Lithodora diffusa
+plant name is :- Little Bluestem, its scientic name is :- Schizachyrium scoparium
+plant name is :- Little Leaf Linden, its scientic name is :- Tilia cordata
+plant name is :- Live Oak, its scientic name is :- Quercus virginiana
+plant name is :- Liverwort, its scientic name is :- Hepatica nobilis
+plant name is :- Living Stones, its scientic name is :- Lithops 
+plant name is :- Lobelia, its scientic name is :- Lobelia erinus
+plant name is :- Loblolly Pine, its scientic name is :- Pinustaeda
+plant name is :- Lodgepole Pine, its scientic name is :- Pinus contorta
+plant name is :- Lodi Apple Tree, its scientic name is :- Malus lodi
+plant name is :- Lombardy Poplar, its scientic name is :- Populus nigra 'italica'
+plant name is :- London Plane, its scientic name is :- Platanus x acerifolia
+plant name is :- Longleaf Pine, its scientic name is :- Pinus palustris
+plant name is :- Loofah, its scientic name is :- Luffa aegyptiaca
+plant name is :- Loquat, its scientic name is :- Eriobotrya japonica
+plant name is :- Loropetalum, its scientic name is :- Loropetalum chinense
+plant name is :- Lotus, its scientic name is :- Nymphaea
+plant name is :- Love-Lies-Bleeding, its scientic name is :- Amaranthus caudatus
+plant name is :- Lowbush Blueberry, its scientic name is :- Vaccinium angustifolium
+plant name is :- Lucky Bamboo, its scientic name is :- Dracaena sanderiana
+plant name is :- Lungwort, its scientic name is :- Pulmonaria 
+plant name is :- Lupine, its scientic name is :- Lupinus x hybrida
+plant name is :- Lychee, its scientic name is :- Litchi chinensis
+plant name is :- Macho Fern, its scientic name is :- Nephrolepis biserrata
+plant name is :- Mad Pupper, its scientic name is :- Tillandsia Bergeri
+plant name is :- Madagascar Palm, its scientic name is :- Pachypodium lamerei
+plant name is :- Madagascar Periwinkle, its scientic name is :- Catharanthus roseus
+plant name is :- Madonna Lily, its scientic name is :- Lilium candidum
+plant name is :- Magnolia Jane, its scientic name is :- Magnolia x 'Jane'
+plant name is :- Mahonia, its scientic name is :- Mahonia
+plant name is :- Maidenhair, its scientic name is :- Gingko biloba
+plant name is :- Maidenhair Fern, its scientic name is :- Adiantum raddianum
+plant name is :- Majesty Palm, its scientic name is :- Ravenea revularis
+plant name is :- Manchurian Lilac, its scientic name is :- Syringa pubescens
+plant name is :- Mandevilla, its scientic name is :- Mandevilla 
+plant name is :- Mango, its scientic name is :- Mangifera indica
+plant name is :- Manila Palm, its scientic name is :- Adonidia merrillii
+plant name is :- Manjula Pothos, its scientic name is :- Epipremnum aureum ‘HANSOTI14’
+plant name is :- Manuka, its scientic name is :- Leptospermum scoparium
+plant name is :- Marble Queen Pothos, its scientic name is :- Epipremnum aureum 'Marble Queen'
+plant name is :- Marigold, its scientic name is :- Tagetes
+plant name is :- Marsh Marigold, its scientic name is :- Caltha palustris
+plant name is :- Marshmallow, its scientic name is :- Althaea officinalis
+plant name is :- Mask Flower, its scientic name is :- Alonsoa
+plant name is :- Masterwort, its scientic name is :- Astrantia
+plant name is :- Mastic Tree, its scientic name is :- Pistacia lentiscus
+plant name is :- Matilja Poppy, its scientic name is :- Romneya coulteri
+plant name is :- Mayapple, its scientic name is :- Podophyllum peltatum
+plant name is :- Meadow Rue, its scientic name is :- Thalictrum rochebrunianum
+plant name is :- Medinilla, its scientic name is :- Mednilla magnifica
+plant name is :- Mediterranean Fan Palm, its scientic name is :- Chamaerops humilis
+plant name is :- Melon Cactus, its scientic name is :- Melocactus
+plant name is :- Mexican Bush Sage, its scientic name is :- Salvia leucantha
+plant name is :- Mexican Daisy, its scientic name is :- Erigeron karvinskianus
+plant name is :- Mexican Feather Grass, its scientic name is :- Nassella tenuissima
+plant name is :- Mexican Firecracker, its scientic name is :- Echeveria setosa
+plant name is :- Mexican Hat, its scientic name is :- Ratibida columnifera
+plant name is :- Mexican Heather, its scientic name is :- Cuphea hyssopifolia
+plant name is :- Mexican Marigolds, its scientic name is :- Tagetes Erecta
+plant name is :- Mexican Orange, its scientic name is :- Choisya ternata
+plant name is :- Mexican Petunia, its scientic name is :- Ruellia brittoniana
+plant name is :- Mexican Primrose, its scientic name is :- Oenothera speciosa
+plant name is :- Mexican Snowball, its scientic name is :- Echeveria elegans
+plant name is :- Mexican Sunflower, its scientic name is :- Tithonia rotundifolia
+plant name is :- Meyer Lemon, its scientic name is :- Citrus x meyeri
+plant name is :- Milk Thistle, its scientic name is :- Silybum marianum
+plant name is :- Milkweed, its scientic name is :- Asclepias syriaca
+plant name is :- Million Bells, its scientic name is :- Calibrachoa
+plant name is :- Ming Aralia, its scientic name is :- Polyscias fruticosa
+plant name is :- Mini Cyclamen, its scientic name is :- Cyclamen persicum
+plant name is :- Mini Monstera, its scientic name is :- Rhaphidophora Tetrasperma
+plant name is :- Miniature Rose, its scientic name is :- Rosa 
+plant name is :- Mint, its scientic name is :- Mentha 
+plant name is :- Mistletoe Cactus, its scientic name is :- Rhipsalis
+plant name is :- Mistletoe Cactus, its scientic name is :- Rhipsalis baccifera
+plant name is :- Mizuna Kyona, its scientic name is :- Brassica rapa
+plant name is :- Mock Orange, its scientic name is :- Murraya paniculata
+plant name is :- Mock Orange Bush, its scientic name is :- Philadelphus coronarius
+plant name is :- Mock Strawberry, its scientic name is :- Potentilla indica
+plant name is :- Mona Lavender, its scientic name is :- Plectranthus mona lavender
+plant name is :- Money Tree, its scientic name is :- Pachira aquatica
+plant name is :- Monkey Grass, its scientic name is :- Ophiopogon planiscapus 'nigrescens'
+plant name is :- Monkey Puzzle Tree, its scientic name is :- Araucaria araucana
+plant name is :- Monkey Tail, its scientic name is :- Acalypha hispida
+plant name is :- Monkshood, its scientic name is :- Aconitum napellus
+plant name is :- Monstera Dubia, its scientic name is :- Monstera dubia
+plant name is :- Monstera Peru, its scientic name is :- Monstera karstenianum
+plant name is :- Montauk Daisy, its scientic name is :- Nipponanthemum nipponicum
+plant name is :- Montbretia, its scientic name is :- Crocosmia 
+plant name is :- Monterey Pine, its scientic name is :- Pinus radiata
+plant name is :- Moon Cactus, its scientic name is :- Gymnocalycium mihanovichii
+plant name is :- Moonflower, its scientic name is :- Ipomoea alba
+plant name is :- Moonlighter, its scientic name is :- Dendrocnide moroides
+plant name is :- Morel Mushrooms, its scientic name is :- Morchella 
+plant name is :- Moringa Tree, its scientic name is :- Moringaceae
+plant name is :- Morning Glory, its scientic name is :- Ipomoea purpurea
+plant name is :- Morning-Noon-And-Night, its scientic name is :- Brunfelsia pauciflora
+plant name is :- Moss Rose, its scientic name is :- Portulaca grandiflora
+plant name is :- Mother Of Thousands, its scientic name is :- Kalanchoe daigremontiana
+plant name is :- Motherwort, its scientic name is :- Leonurus cardiaca
+plant name is :- Mountain Laurel, its scientic name is :- Kalmia latifolia
+plant name is :- Mugo Pine, its scientic name is :- Pinus mugo cultivars
+plant name is :- Mulberry, its scientic name is :- Morus 
+plant name is :- Mullein, its scientic name is :- Verbascum thapsus
+plant name is :- Mum, its scientic name is :- Chrysanthemum
+plant name is :- Munstead Lavender, its scientic name is :- Lavandua angustifolia 'munstead'
+plant name is :- Myrtle, its scientic name is :- Myrtus communis
+plant name is :- Naked Lady, its scientic name is :- Colchicum 
+plant name is :- Napa Cabbage, its scientic name is :- Brassica rapa
+plant name is :- Nasturtium, its scientic name is :- Tropaeolum
+plant name is :- Natal Plum, its scientic name is :- Carissa macrocarpa
+plant name is :- Needle Palm, its scientic name is :- Yucca filamentosa
+plant name is :- Nemesia, its scientic name is :- Scrophulariaceae
+plant name is :- Neon Pothos, its scientic name is :- Epipremnum aureum 'Neon'
+plant name is :- Netleaf Hackberry, its scientic name is :- Celtis reticulata
+plant name is :- Never Never Plant, its scientic name is :- Ctenanthe setosa 'grey star'
+plant name is :- New England Aster, its scientic name is :- Symphyotrichum novae-angliae
+plant name is :- New Guinea Impatiens, its scientic name is :- Impatiens hawkeri
+plant name is :- New York Ironweed, its scientic name is :- Vernonia noveboracensis
+plant name is :- New Zealand Flax, its scientic name is :- Phormium tenax
+plant name is :- Nigella, its scientic name is :- Nigella damascena
+plant name is :- Night-Blooming Jasmine, its scientic name is :- Cestrum Nocturnum
+plant name is :- Ninebark, its scientic name is :- Physocarpus opulifolius
+plant name is :- Noble Fir, its scientic name is :- Abies procera
+plant name is :- Norfolk Island Pine, its scientic name is :- Araucaria heterophylla
+plant name is :- Norway Spruce, its scientic name is :- Picea abies
+plant name is :- Nosegay, its scientic name is :- Plumeria alba
+plant name is :- Nutmeg, its scientic name is :- Myristica fragrans
+plant name is :- Oak Mistletoe, its scientic name is :- Phoradendron leucarpum
+plant name is :- Oakleaf Hydrangea, its scientic name is :- Hydrangea quercifolia
+plant name is :- Okra, its scientic name is :- Abelmoschus esculentus
+plant name is :- Old Man, its scientic name is :- Artemisia abrotanum
+plant name is :- Oleander, its scientic name is :- Nerium oleander
+plant name is :- One Seed Juniper, its scientic name is :- Juniperus monosperma
+plant name is :- Onion, its scientic name is :- Allium cepa
+plant name is :- Orange Daylily, its scientic name is :- Hemerocallis fulva
+plant name is :- Orange Jubilee, its scientic name is :- Tacoma stans
+plant name is :- Orange Lily, its scientic name is :- Lilium bulbiferum
+plant name is :- Orchid, its scientic name is :- Cattleya
+plant name is :- Orchid Cactus, its scientic name is :- Epiphyllum
+plant name is :- Oregano, its scientic name is :- Origanum spp.
+plant name is :- Oriental Bittersweet, its scientic name is :- Celastrus orbiculatus
+plant name is :- Oriental Poppy, its scientic name is :- Papaver orientale
+plant name is :- Ornamental Cabbage, its scientic name is :- Brassica oleracea
+plant name is :- Ornamental Gourd, its scientic name is :- Lagenaria spp., Cucurbita spp.
+plant name is :- Ornamental Millet, its scientic name is :- Pennisetum glaucum
+plant name is :- Ornamental Onion, its scientic name is :- Allium schubertii
+plant name is :- Ornamental Pepper, its scientic name is :- Capsicum annuum cultivars
+plant name is :- Ostrich Fern, its scientic name is :- Matteuccia struthiopteris
+plant name is :- Owl Eyes, its scientic name is :- Huernia zebrina
+plant name is :- Oxeye Daisy, its scientic name is :- Leucanthemum vulgare
+plant name is :- Oyster Plant, its scientic name is :- Tradescantia spathacea
+plant name is :- Pacific Rhododendron, its scientic name is :- Rhododendron macrophyllum
+plant name is :- Paddle Plant, its scientic name is :- Kalanchoe luciae
+plant name is :- Pagoda Dogwood, its scientic name is :- Cornus alternifolia
+plant name is :- Pagoda Plant, its scientic name is :- Clerodendrum paniculatum
+plant name is :- Pale Purple Coneflower, its scientic name is :- Echinacea pallida
+plant name is :- Palm Tree, its scientic name is :- Arecaceae family
+plant name is :- Pampas Grass, its scientic name is :- Cortadelia selloana
+plant name is :- Panda Plant, its scientic name is :- Kalanchoe tomentonsa
+plant name is :- Panicle Hydrangea, its scientic name is :- Hydrangea paniculata
+plant name is :- Pansy, its scientic name is :- Viola x wittrockiana
+plant name is :- Papaya, its scientic name is :- Carica papaya
+plant name is :- Paper Birch, its scientic name is :- Betula papyrifera
+plant name is :- Paperbark Maple, its scientic name is :- Acer griseum
+plant name is :- Papyrus, its scientic name is :- Cyperus papyrus
+plant name is :- Parlor Palm, its scientic name is :- Chamaedorea elegans
+plant name is :- Parrot Tulip, its scientic name is :- Tulipa parrot
+plant name is :- Parry's Agave, its scientic name is :- Agave parryi
+plant name is :- Parsnip, its scientic name is :- Pastinaca sativa
+plant name is :- Partridge Pea, its scientic name is :- Chamaecrista fasciculata
+plant name is :- Passionflower, its scientic name is :- Passiflora 
+plant name is :- Pata De Vaca , its scientic name is :- Bauhinia lunarioides
+plant name is :- Patchouli, its scientic name is :- Pogostemon cablin
+plant name is :- Patty Pan Squash, its scientic name is :- Cucurbita pepo
+plant name is :- Pawpaw, its scientic name is :- Asimina triloba
+plant name is :- Peace Lily, its scientic name is :- Spathiphyllum
+plant name is :- Peach, its scientic name is :- Prunus persica
+plant name is :- Peach-Leaved Bellflower, its scientic name is :- Campanula persicifolia
+plant name is :- Peacock Plant, its scientic name is :- Calathea makoyana
+plant name is :- Peanut Butter Bush, its scientic name is :- Clerodendrum trichotomum
+plant name is :- Peanut Cactus, its scientic name is :- Echinopsis Chamaecereus
+plant name is :- Peanuts, its scientic name is :- Arachis hypogaea
+plant name is :- Pearl Plant, its scientic name is :- Haworthia
+plant name is :- Pecan Tree, its scientic name is :- Carya illinoinensis
+plant name is :- Pencil Cactus, its scientic name is :- Euphorbia tirucalli
+plant name is :- Pennisetum (Fountain Grass), its scientic name is :- Pennisetum
+plant name is :- Pennyroyal, its scientic name is :- Mentha pulegium
+plant name is :- Peonies, its scientic name is :- Paeonia
+plant name is :- Peperomia, its scientic name is :- Peperomia 
+plant name is :- Peppercorn Plant, its scientic name is :- Piper nigrum
+plant name is :- Peppermint, its scientic name is :- Mentha × piperita
+plant name is :- Perennial Cornflower, its scientic name is :- Centaurea montana
+plant name is :- Persian Buttercup, its scientic name is :- Ranunculus asiaticus
+plant name is :- Persian Shield, its scientic name is :- Strobilanthes dyerianus
+plant name is :- Persian Violet, its scientic name is :- Exacum affine
+plant name is :- Peruvian Lily, its scientic name is :- Alstroemeria 
+plant name is :- Petunia, its scientic name is :- Petunia 
+plant name is :- Phalaenopsis, its scientic name is :- Phalaenopsis 
+plant name is :- Philodendron, its scientic name is :- Philodendron
+plant name is :- Philodendron Brasil, its scientic name is :- Philodendron hederaceum ‘Brasil’
+plant name is :- Philodendron Melanochrysum, its scientic name is :- Philodendron melanochrysum
+plant name is :- Philodendron Micans, its scientic name is :- Philodendron Micans
+plant name is :- Pig Squeak, its scientic name is :- Bergenia cordifolia
+plant name is :- Piggyback Plant, its scientic name is :- Tolmiea menziesii
+plant name is :- Pilea, its scientic name is :- Pilea 
+plant name is :- Pineapple, its scientic name is :- Ananas comosus
+plant name is :- Pineapple Guava, its scientic name is :- Feijoa
+plant name is :- Pineapple Lily, its scientic name is :- Eucomis 
+plant name is :- Pink Banana, its scientic name is :- Musa veutina
+plant name is :- Pink Dogwood, its scientic name is :- Cornus florida
+plant name is :- Pink Jasmine, its scientic name is :- Jasminum polyanthum
+plant name is :- Pink Lemonade Blueberry Bush, its scientic name is :- Vaccinium 'Pink Lemonade'
+plant name is :- Pink Muhly Grass, its scientic name is :- Muhlenbergia capillaris
+plant name is :- Pink Mulla Mulla, its scientic name is :- Ptilotus exaltatus
+plant name is :- Pink Princess Philodendron, its scientic name is :- Philodendron erubescens 'Pink Princess'
+plant name is :- Pink Quill, its scientic name is :- Tillandsia cyanea
+plant name is :- Pistachio Tree, its scientic name is :- Pistaciavera
+plant name is :- Pitch Pine, its scientic name is :- Pinus rigida
+plant name is :- Plantain Lily, its scientic name is :- Hosta
+plant name is :- Plantain Tree, its scientic name is :- Musa x paradisiaca
+plant name is :- Plectranthus, its scientic name is :- Plectranthus
+plant name is :- Plumbago, its scientic name is :- Ceratostigma plumbaginoides
+plant name is :- Podocarpus, its scientic name is :- Podocarpus
+plant name is :- Poinsettia, its scientic name is :- Euphorbia pulcherrima
+plant name is :- Poison Ivy, its scientic name is :- Toxicodendron radicans
+plant name is :- Poison Oak, its scientic name is :- Toxicodendron diversilobum
+plant name is :- Poison Sumac, its scientic name is :- Toxicodendron vernix
+plant name is :- Polka Dot Plant, its scientic name is :- Hypoestes phyllostachya
+plant name is :- Polyanthus, its scientic name is :- Primula and hybrids
+plant name is :- Pond Pine, its scientic name is :- Pinus serotina
+plant name is :- Ponderosa Pine, its scientic name is :- Pinus ponderosa
+plant name is :- Pot of Gold, its scientic name is :- Coreopsis
+plant name is :- Potato, its scientic name is :- Solanum tuberosum
+plant name is :- Pothos, its scientic name is :- Epipremnum aureum
+plant name is :- Powder Puff Cactus, its scientic name is :- Mammillaria bocasana
+plant name is :- Prairie Blazing Star, its scientic name is :- Liatris pycnostachya
+plant name is :- Prairie Dropseed, its scientic name is :- Sporobolus heterolepis
+plant name is :- Prairie Rose, its scientic name is :- Rosa carolina
+plant name is :- Prairie Smoke, its scientic name is :- Geum triflorum
+plant name is :- Prayer Plant, its scientic name is :- Maranta leuconeura
+plant name is :- Prickly Pear, its scientic name is :- Opuntia
+plant name is :- Prickly Pear, its scientic name is :- Opuntia compressa
+plant name is :- Pride Of Barbados, its scientic name is :- Caesalpinia pulcherrima
+plant name is :- Pride Of Madeira, its scientic name is :- Echium candicans
+plant name is :- Primrose, its scientic name is :- Primula x polyantha
+plant name is :- Princess Flower, its scientic name is :- Tibouchina urvilleana
+plant name is :- Privet, its scientic name is :- Ligustrum
+plant name is :- Protea, its scientic name is :- Protea
+plant name is :- Pumpkin, its scientic name is :- Curbita
+plant name is :- Pumpkin Ash, its scientic name is :- Fraxinus profunda
+plant name is :- Pumpkin On A Stick, its scientic name is :- Solanum integrifolium
+plant name is :- Purple Bell Vine, its scientic name is :- Rhodochiton atrosanguineus
+plant name is :- Purple Fountain Grass, its scientic name is :- Pennisetum setaceum 'rubrum'
+plant name is :- Purple Heart Plant, its scientic name is :- Tradescantia Pallida
+plant name is :- Purple Hyacinth Bean, its scientic name is :- Lablab purpureus
+plant name is :- Purple Pampas Grass, its scientic name is :- Cortaderia jubata
+plant name is :- Purple Velvet Plant, its scientic name is :- Gynura aurantiaca
+plant name is :- Purple Waffle Plant, its scientic name is :- Hemigraphis alternata
+plant name is :- Purpleleaf Sand Cherry, its scientic name is :- Prunus x cistena
+plant name is :- Pussy Willow, its scientic name is :- Salix discolor
+plant name is :- Pyrethrum, its scientic name is :- Tanacetum coccineum
+plant name is :- Quaking Aspen, its scientic name is :- Populus tremuloides
+plant name is :- Quinoa, its scientic name is :- Chenopodium quinoa
+plant name is :- Radish, its scientic name is :- Raphanus sativus
+plant name is :- Rain Lily, its scientic name is :- Zephyranthes
+plant name is :- Rainbow Eucalyptus Tree, its scientic name is :- Eucalyptus deglupta
+plant name is :- Ramps, its scientic name is :- Allium tricoccum
+plant name is :- Rat Tail Cactus, its scientic name is :- Aporocactus flagelliformis
+plant name is :- Rattlesnake Plant, its scientic name is :- Calathea
+plant name is :- Rattlesnake Plantain, its scientic name is :- Goodyera
+plant name is :- Rattlesnake Plants, its scientic name is :- Calathea lancifolia
+plant name is :- Red Buckeye Tree, its scientic name is :- Aesculus pavia
+plant name is :- Red Charm Peony, its scientic name is :- Paeonia 'red charm'
+plant name is :- Red Currant, its scientic name is :- Ribes rubrum
+plant name is :- Red Dragon Japanese Maple, its scientic name is :- Acer palmatum 'Red Dragon'
+plant name is :- Red Hot Poker, its scientic name is :- Kniphofia
+plant name is :- Red Maple, its scientic name is :- Acer rubrum
+plant name is :- Red Mulberry, its scientic name is :- Morus Rubra
+plant name is :- Red Oak, its scientic name is :- Quercus rubra
+plant name is :- Red Poppy, its scientic name is :- Papaver rhoeas
+plant name is :- Red Spider Lily, its scientic name is :- Lycoris radiata
+plant name is :- Red Sunset Maple, its scientic name is :- Acer rubrum 'franksred'
+plant name is :- Red Tip Photinia, its scientic name is :- Photinia x fraseri
+plant name is :- Red-Twig Dogwood, its scientic name is :- Cornus servicea
+plant name is :- Resurrection Lily, its scientic name is :- Lycoris squamigera
+plant name is :- Resurrection Plant, its scientic name is :- Selaginella lepidophylla
+plant name is :- Rex Begonia, its scientic name is :- Begonia rex-cultorum
+plant name is :- Rhubarb, its scientic name is :- Rheum rhabarbarum 
+plant name is :- Ribbon Grass, its scientic name is :- Phalaris arundinacea
+plant name is :- River Birch, its scientic name is :- Betula nigra
+plant name is :- Robellini Palm, its scientic name is :- Phoenix roebelenii
+plant name is :- Rockrose, its scientic name is :- Cistus
+plant name is :- Rockspray Cotoneaster, its scientic name is :- Cotoneaster horizontalis
+plant name is :- Rocky Mountain Juniper, its scientic name is :- Juniperus scopulorum
+plant name is :- Rose, its scientic name is :- Rosa 
+plant name is :- Rosemary, its scientic name is :- Rosmarinus officinalis
+plant name is :- Rosemary, its scientic name is :- Salvia rosmarinus
+plant name is :- Royal Poinciana, its scientic name is :- Delonix regia
+plant name is :- Rubber Plant, its scientic name is :- Ficus elastica
+plant name is :- Ruby Necklace, its scientic name is :- Othonna capensis
+plant name is :- Ruby Slippers Hydrangea, its scientic name is :- Hydrangea quercifolia 'Ruby Slippers'
+plant name is :- Rue Anemone, its scientic name is :- Thalictrum thalictroides
+plant name is :- Rugosa Rose, its scientic name is :- Rosa rugosa
+plant name is :- Ruscus, its scientic name is :- Ruscus
+plant name is :- Russian Sage, its scientic name is :- Perovskia atriplicifolia
+plant name is :- Rutabaga, its scientic name is :- Brassica napobrassica
+plant name is :- Saffron Crocus, its scientic name is :- Artemisia dracunculus
+plant name is :- Sagebrush Buttercup, its scientic name is :- Ranunculus glaberrimus
+plant name is :- Sago Palm, its scientic name is :- Cycas revoluta
+plant name is :- San Marzano Tomato, its scientic name is :- Lycopersicon esculentum 'San Marzano'
+plant name is :- Saskatoon Serviceberry, its scientic name is :- Amelanchier alnifolia
+plant name is :- Sassafras, its scientic name is :- Sassafras albium
+plant name is :- Satin Flower, its scientic name is :- Clarkia amoena
+plant name is :- Satin Pothos, its scientic name is :- Scindapsus pictus
+plant name is :- Satsuma Mandarin, its scientic name is :- Citrus reticulata
+plant name is :- Saucer Magnolia, its scientic name is :- Magnolia x soulangiana
+plant name is :- Sawtooth Sunflower, its scientic name is :- Helianthus grosseserratus
+plant name is :- Scallion, its scientic name is :- Allium wakegi
+plant name is :- Scarlet Oak, its scientic name is :- Quercus coccinea
+plant name is :- Scarlet Tassel Flower, its scientic name is :- Emilia coccinea
+plant name is :- Scented-Leaved Geraniums, its scientic name is :- Pelargonium
+plant name is :- Schefflera, its scientic name is :- Schefflera 
+plant name is :- Scotch Pine, its scientic name is :- Pinus sylvestris
+plant name is :- Scottish Moss, its scientic name is :- Arenaria verna
+plant name is :- Sea Holly, its scientic name is :- Eryngium
+plant name is :- Sea Lavender, its scientic name is :- Limonium latifolium
+plant name is :- Sedum, its scientic name is :- Hylotelephium spectabile 'Herbstfreude'
+plant name is :- Sensitive Plant, its scientic name is :- Mimosa pudica
+plant name is :- Serbian Spruce, its scientic name is :- Picea omorika
+plant name is :- Serrano Pepper, its scientic name is :- Capsicum annuum
+plant name is :- Sesame, its scientic name is :- Sesamum indicum
+plant name is :- Shallot, its scientic name is :- Allium ascalonium
+plant name is :- Shamrock, its scientic name is :- Oxalis triangularis
+plant name is :- Shark Jaws, its scientic name is :- Faucaria tigrina
+plant name is :- Shasta Daisy, its scientic name is :- Leucanthemum x superbum
+plant name is :- Shingle Oak, its scientic name is :- Quercus imbricaria
+plant name is :- Shooting Star, its scientic name is :- Dodecatheon meadia
+plant name is :- Showy Lady's Slipper Orchid, its scientic name is :- Cypripedium reginae
+plant name is :- Showy Milkweed, its scientic name is :- Asclepias speciosa
+plant name is :- Showy Stonecrop, its scientic name is :- Sedum
+plant name is :- Siberian Iris, its scientic name is :- Iris siberica
+plant name is :- Siberian Maple, its scientic name is :- Acer ginnala
+plant name is :- Silk Floss Tree, its scientic name is :- Ceiba speciosa
+plant name is :- Silk Tree, its scientic name is :- Albizia julibrissin
+plant name is :- Silky Dogwood, its scientic name is :- Cornus amomum
+plant name is :- Silver Carpet, its scientic name is :- Dymondia margaretae
+plant name is :- Silver Linden, its scientic name is :- Tilia tomentosa
+plant name is :- Silver Maple, its scientic name is :- Acer saccharinum
+plant name is :- Silver Maple, its scientic name is :- Acer saccharinum
+plant name is :- Silver Mound, its scientic name is :- Artemisia schmidtiana 'silver mound'
+plant name is :- Silver Squill, its scientic name is :- Ledebouria socialis
+plant name is :- Silvergrass, its scientic name is :- Miscanthus
+plant name is :- Siskiyou Lewisia, its scientic name is :- Lewisia cotyledon 'rainbow'
+plant name is :- Sky Plant, its scientic name is :- Tillandsia ionantha
+plant name is :- Slipper Plant, its scientic name is :- Euphorbia lomelii
+plant name is :- Smoke Tree, its scientic name is :- Cotinus coggygria
+plant name is :- Smooth Hydrangea, its scientic name is :- Hydrangea arborescens
+plant name is :- Smooth Sumac, its scientic name is :- Rhus glabra
+plant name is :- Snail Vine, its scientic name is :- Cochliasanthus caracalla
+plant name is :- Snake Plant, its scientic name is :- Sansevieria trifasciata
+plant name is :- Snakeroot, its scientic name is :- Actaea
+plant name is :- Snapdragon, its scientic name is :- Antirrhinum majus
+plant name is :- Snapdragon Vine, its scientic name is :- Maurandya scandens
+plant name is :- Sneezeweed, its scientic name is :- Helenium autumnale
+plant name is :- Snow Banana, its scientic name is :- Ensete glaucum
+plant name is :- Snow-In-Summer, its scientic name is :- Cerastium tomentosum
+plant name is :- Snowball Bush Viburnum, its scientic name is :- Viburnum x carlcephalum
+plant name is :- Snowdrop, its scientic name is :- Galanthus nivalis
+plant name is :- Soapwort, its scientic name is :- Saponaria officinalis
+plant name is :- Society Garlic, its scientic name is :- Tulbaghia violacea
+plant name is :- Solomon's Seal, its scientic name is :- Polygonatum
+plant name is :- Song Of India, its scientic name is :- Dracaena reflexa
+plant name is :- Sorrel, its scientic name is :- Rumex acestosa
+plant name is :- Sotol, its scientic name is :- Dasylirion wheeleri
+plant name is :- Sourwood, its scientic name is :- Oxydendrum arboreum
+plant name is :- Southern Magnolia, its scientic name is :- Magnolia Grandiflora
+plant name is :- Spanish Bluebell, its scientic name is :- Hyacinthoides hispanica
+plant name is :- Spanish Lavender, its scientic name is :- Lavendula stoechas
+plant name is :- Spearmint, its scientic name is :- Mentha Spicata
+plant name is :- Spicebush, its scientic name is :- Lindera benzoin
+plant name is :- Spider Flower, its scientic name is :- Cleome
+plant name is :- Spider Lily, its scientic name is :- Lycoris
+plant name is :- Spider Mum, its scientic name is :- Chrysanthemum morifolium
+plant name is :- Spiderwort, its scientic name is :- Tradescantia
+plant name is :- Spike Speedwell, its scientic name is :- Veronica spicata
+plant name is :- Spinach, its scientic name is :- Spinacia oleracea
+plant name is :- Spineless Yucca, its scientic name is :- Yucca elephantipes
+plant name is :- Spiral Aloe, its scientic name is :- Aloe Polyphylla
+plant name is :- Spiral Ginger, its scientic name is :- Costus woodsonii
+plant name is :- Spirea, its scientic name is :- Spiraea 
+plant name is :- Split-Leaf Philodendron, its scientic name is :- Monstera deliciosa
+plant name is :- Spotted Dead Nettles, its scientic name is :- Lamium maculatum
+plant name is :- Squirrel Corn, its scientic name is :- Dicentra canadensis
+plant name is :- Squirting cucumber, its scientic name is :- Ecballium elaterium
+plant name is :- St. Augustine Grass, its scientic name is :- Stenotaphrum secundatum
+plant name is :- St. John's Wort, its scientic name is :- Hypericum perforatum
+plant name is :- Staghorn Fern, its scientic name is :- Platycerium bifurcatum
+plant name is :- Star Cactus, its scientic name is :- Astrophytum
+plant name is :- Starfruit, its scientic name is :- Averrhoa carambola
+plant name is :- Stargazer Lily, its scientic name is :- Lilium 'stargazer'
+plant name is :- Stella, its scientic name is :- Hemerocallis 'stella de oro'
+plant name is :- Stewartstonian Azalea, its scientic name is :- Rhododendron 'stewartstonian'
+plant name is :- Stinging Nettle, its scientic name is :- Urtica dioica
+plant name is :- Strawberry, its scientic name is :- Fragaria x ananassa
+plant name is :- Strawberry Begonia, its scientic name is :- Saxifraga stolonifera
+plant name is :- Strawberry Vanilla Hydrangea, its scientic name is :- Hydrangea paniculata 'Renhy'
+plant name is :- Strawflower, its scientic name is :- Xerochrysum bracteatum
+plant name is :- String Bean, its scientic name is :- Phaseolus vulgaris
+plant name is :- String Of Bananas, its scientic name is :- Senecio radicans
+plant name is :- String Of Buttons, its scientic name is :- Crassula perforata
+plant name is :- String Of Dolphins, its scientic name is :- Senecio peregrinus
+plant name is :- String Of Hearts, its scientic name is :- Ceropegia woodii
+plant name is :- String Of Nickels, its scientic name is :- Dischidia nummularia
+plant name is :- String Of Pearls, its scientic name is :- Senecio rowleyanus
+plant name is :- String Of Turtles, its scientic name is :- Peperomia prostrata
+plant name is :- Stromanthe Triostar, its scientic name is :- Stromanthe sanguinea
+plant name is :- Succulent Senecio, its scientic name is :- Senecio
+plant name is :- Sugar Cane, its scientic name is :- Saccharum officinarum
+plant name is :- Sugar Tyme Crabapple, its scientic name is :- Malus 'sutyzam'
+plant name is :- Summer Shandy Hops, its scientic name is :- Humulus lupulus 'Summer'
+plant name is :- Sun Gold, its scientic name is :- Chamaecyparis pisifera
+plant name is :- Sunburst Honey Locust, its scientic name is :- Gleditsia triacanthos var. inermis 'Suncole'
+plant name is :- Sundew, its scientic name is :- Drosera capensis
+plant name is :- Sunflower, its scientic name is :- Helianthus annuus
+plant name is :- SunPatiens, its scientic name is :- Impatiens x hybrida
+plant name is :- Swamp Milkweed, its scientic name is :- Asclepias incarnata
+plant name is :- Swamp White Oak, its scientic name is :- Quercus bicolor
+plant name is :- Swan River Daisy, its scientic name is :- Brachyscome iberidifolia
+plant name is :- Sweet Annie, its scientic name is :- Artemisia annua
+plant name is :- Sweet Autumn Clematis, its scientic name is :- Clematis terniflora
+plant name is :- Sweet Basil, its scientic name is :- Ocimum basilicum
+plant name is :- Sweet Corn, its scientic name is :- Zea mays
+plant name is :- Sweet Pea Shrub, its scientic name is :- Polygala dalmaisiana
+plant name is :- Sweet Potato, its scientic name is :- Ipomoea Batatas
+plant name is :- Sweet Potato Vine, its scientic name is :- Ipomoea Batatas
+plant name is :- Sweet Williams, its scientic name is :- Dianthus barbatus
+plant name is :- Sweet Woodruff, its scientic name is :- Galium odoratum
+plant name is :- Sweetbay Magnolia, its scientic name is :- Magnolia virginiana
+plant name is :- Swiss Chard, its scientic name is :- Beta vulgaris
+plant name is :- Swiss Cheese Plant, its scientic name is :- Monstera adansonii
+plant name is :- Switchgrass, its scientic name is :- Panicum virgatum
+plant name is :- Sword Fern, its scientic name is :- Nephrolepis obliterata
+plant name is :- Sycamore, its scientic name is :- Platanus occidentalis
+plant name is :- Tall Fescue Grass, its scientic name is :- Festuca arundinacea
+plant name is :- Tamarack, its scientic name is :- Larix laricina
+plant name is :- Tapioca, its scientic name is :- Manihot esculenta
+plant name is :- Taro, its scientic name is :- Colocasia
+plant name is :- Tatsoi, its scientic name is :- Brassica rapa
+plant name is :- Taylor Juniper, its scientic name is :- Juniperus virginiana 'Taylor'
+plant name is :- Tea, its scientic name is :- Camellia sinensis
+plant name is :- Tea Olive, its scientic name is :- Osmanthus fragrans
+plant name is :- Texas Mountain Laurel, its scientic name is :- Dermatophyllum secundiflorum
+plant name is :- Texas Pride, its scientic name is :- Phlox drummondii
+plant name is :- Texas Sage, its scientic name is :- Salvia coccinea
+plant name is :- Texas Star Hibiscus, its scientic name is :- Hibiscus coccineus
+plant name is :- Thanksgiving Cactus, its scientic name is :- Schlumbergera truncata
+plant name is :- The President Clematis, its scientic name is :- Clematis'the president'
+plant name is :- Thyme, its scientic name is :- Thymus vulgaris
+plant name is :- Ti, its scientic name is :- Cordyline terminalis
+plant name is :- Tickseed, its scientic name is :- Coreopsis tinctoria
+plant name is :- Tiger Aloe, its scientic name is :- Gonialoe variegata
+plant name is :- Tiger Flower, its scientic name is :- Tigridia pavonia
+plant name is :- Tiger Lily, its scientic name is :- Lilium lancifolium
+plant name is :- Toi, its scientic name is :- Cordyline indivisa
+plant name is :- Tomatillo, its scientic name is :- Physalis ixocarpa
+plant name is :- Toothwort, its scientic name is :- Cardamine concatenata
+plant name is :- Topsy Debbi, its scientic name is :- X Graptoveria 'topsy debbi'
+plant name is :- Touch-Me-Not, its scientic name is :- Impatiens balsamina
+plant name is :- Treasure Flower, its scientic name is :- Gazania rigens
+plant name is :- Tree Aloe, its scientic name is :- Aloe arborescens
+plant name is :- Tree Mallow, its scientic name is :- Lavatera maritima
+plant name is :- Tree Peony, its scientic name is :- Paeonia suffruticosa
+plant name is :- Tree Philodendron, its scientic name is :- Philodendron bipinnatifidum
+plant name is :- Tricolor Beech, its scientic name is :- Fagus sylvatica 'tricolor'
+plant name is :- Trident Maple, its scientic name is :- Acer buergerianum
+plant name is :- Tropical Milkweed, its scientic name is :- Asclepias curassavica
+plant name is :- Trout Lily, its scientic name is :- Erythronium americanum
+plant name is :- Trumpet Vine, its scientic name is :- Campsis radicans
+plant name is :- Tulip Tree, its scientic name is :- Liriodendron tulipifera
+plant name is :- Tulips, its scientic name is :- Tulipa
+plant name is :- Tupelo, its scientic name is :- Nyssa sylvatica
+plant name is :- Turf Grass, its scientic name is :- Zoysia 
+plant name is :- Turmeric, its scientic name is :- Curcuma longa
+plant name is :- Turnip, its scientic name is :- Brassica rapa
+plant name is :- Turtlehead, its scientic name is :- Chelone obliqua
+plant name is :- Tussock Sedge, its scientic name is :- Carex stricta
+plant name is :- Tweedia, its scientic name is :- Tweedia caerulea
+plant name is :- Twinleaf, its scientic name is :- Jeffersonia diphylla
+plant name is :- Twinspur, its scientic name is :- Diascia
+plant name is :- Umbrella Plant, its scientic name is :- Diphylleia grayi
+plant name is :- Utah Juniper, its scientic name is :- Juniperus osteosperma
+plant name is :- Valerian, its scientic name is :- Valeriana officinalis
+plant name is :- Vanda Orchid, its scientic name is :- Vanda
+plant name is :- Vanilla, its scientic name is :- Vanilla plantifolia
+plant name is :- Venus Fly Trap, its scientic name is :- Dionaea muscipula
+plant name is :- Verbena, its scientic name is :- Verbena x Hybrida
+plant name is :- Veronica, its scientic name is :- Veronica
+plant name is :- Viburnum, its scientic name is :- Viburnum 
+plant name is :- Vinca Minor, its scientic name is :- Vinca minor
+plant name is :- Violet, its scientic name is :- Viola 
+plant name is :- Virginia Bluebells, its scientic name is :- Mertensia virginica
+plant name is :- Virginia Creeper, its scientic name is :- Parthenocissus quinquefolia
+plant name is :- Virginia Pine, its scientic name is :- Pinus virginiana
+plant name is :- Virginia Sweetspire, its scientic name is :- Itea virginica
+plant name is :- Viscaria, its scientic name is :- Silene viscaria
+plant name is :- Vitex, its scientic name is :- Vitex agnus-castus
+plant name is :- Wall Germander, its scientic name is :- Teucrium chamaedrys
+plant name is :- Wallflower, its scientic name is :- Erysimum
+plant name is :- Wandflower, its scientic name is :- Gaura lindheimeri
+plant name is :- Wasabi, its scientic name is :- Wasabia japonica
+plant name is :- Water Lettuce, its scientic name is :- Pistia stratiotes
+plant name is :- Water Oak, its scientic name is :- Quercus nigra
+plant name is :- Watermelon, its scientic name is :- Citrullus lanatus
+plant name is :- Watermelon Peperomia, its scientic name is :- Peperomia argyreia
+plant name is :- Wax Begonia, its scientic name is :- Begonia semperflorens
+plant name is :- Wax Myrtle, its scientic name is :- Myrica pensylvanica
+plant name is :- Weeping Bottlebrush, its scientic name is :- Melaleuca viminalis
+plant name is :- Weeping Cherry, its scientic name is :- Prunus subhirtella 'Pendula'
+plant name is :- Weeping Crabapple, its scientic name is :- Malus
+plant name is :- Weeping Fig, its scientic name is :- Ficus benjamina
+plant name is :- Weeping Katsura, its scientic name is :- Cercidiphyllum japonicum 'Pendulum'
+plant name is :- Weeping Norway Spruce, its scientic name is :- Picea abies ‘Pendula’
+plant name is :- Weeping Redbud, its scientic name is :- Cercis canadensis
+plant name is :- Weeping White Pine, its scientic name is :- Pinus strobus 'pendula'
+plant name is :- Weeping Willows, its scientic name is :- Salix babylonica
+plant name is :- Western Juniper, its scientic name is :- Juniperus occidentalis
+plant name is :- Western Sword Fern, its scientic name is :- Polystichum munitum
+plant name is :- Wheat, its scientic name is :- Triticum aestivum
+plant name is :- White Ash, its scientic name is :- Fraxinus americana
+plant name is :- White Batflower, its scientic name is :- Tacca integrifolia
+plant name is :- White Birch, its scientic name is :- Betula pendula
+plant name is :- White Clover, its scientic name is :- Trifolium repens
+plant name is :- White Feather Plantain Lily, its scientic name is :- Hosta 'White Feather'
+plant name is :- White Fir, its scientic name is :- Abies concolor
+plant name is :- White Frangipani, its scientic name is :- Plumeria alba
+plant name is :- White Lace Flower, its scientic name is :- Orlaya grandiflora
+plant name is :- White Mulberry, its scientic name is :- Morus alba
+plant name is :- White Oak, its scientic name is :- Quercus alba
+plant name is :- White Willow, its scientic name is :- Salix alba
+plant name is :- White Wonder Cucumber, its scientic name is :- Cucumis sativus 'white wonder'
+plant name is :- Wild Cherry, its scientic name is :- Prunus avium
+plant name is :- Wild Dagga, its scientic name is :- Leonotis leonurus
+plant name is :- Wild Geranium, its scientic name is :- Geranium maculatum
+plant name is :- Wild Ginger, its scientic name is :- Asarum canadense
+plant name is :- Wild Red Raspberry, its scientic name is :- Rubus idaeus
+plant name is :- Wine Grape, its scientic name is :- Vitis vinifera
+plant name is :- Winged Spindle Tree, its scientic name is :- Euonymus alatus
+plant name is :- Winter Aconite, its scientic name is :- Eranthis hyemalis
+plant name is :- Winter Gem Boxwood, its scientic name is :- Buxus sinica 'Winter Gem'
+plant name is :- Winter Squash, its scientic name is :- Cucurbita Maxima
+plant name is :- Wintercreeper, its scientic name is :- Euonymus fortunei
+plant name is :- Wintergreen Boxwood, its scientic name is :- Buxus sinica 'Wintergreen'
+plant name is :- Wintersweet, its scientic name is :- Chimonanthus praecox
+plant name is :- Wishbone Flower, its scientic name is :- Torenia fournieri
+plant name is :- Wisteria, its scientic name is :- Wisteria spp.
+plant name is :- Witch Hazel, its scientic name is :- Hamamelis virginiana
+plant name is :- Wolf Eyes' Dogwood, its scientic name is :- Cornus kousa 'wolf eyes'
+plant name is :- Woodland Phlox, its scientic name is :- Phlox divaricata
+plant name is :- Yarrow, its scientic name is :- Achillea millefolium
+plant name is :- Yaupon, its scientic name is :- Ilex vomitoria
+plant name is :- Yellow Alyssum, its scientic name is :- Aurinia saxatilis
+plant name is :- Yellow Bells, its scientic name is :- Tecoma stans
+plant name is :- Yellow Birch, its scientic name is :- Betula alleghaniensis
+plant name is :- Yellow Coneflower, its scientic name is :- Echinacea Paradoxa
+plant name is :- Yellow Corydalis, its scientic name is :- Corydalis lutea
+plant name is :- Yellow Iris, its scientic name is :- Iris pseudacorus
+plant name is :- Yellow Squash, its scientic name is :- Cucurbita pepo
+plant name is :- Yellow Watermelon, its scientic name is :- Citrullus lanatus
+plant name is :- Yellow Wood Poppy, its scientic name is :- Stylophorum diphyllum
+plant name is :- Yellow-Twig Dogwood, its scientic name is :- Cornus servicea 'flaviramea'
+plant name is :- Yellowbells, its scientic name is :- Fritillaria pudica
+plant name is :- Yerba Mate, its scientic name is :- Ilex paraguariensis
+plant name is :- Yew Tree, its scientic name is :- Taxus
+plant name is :- Yoshino Cherry Tree, its scientic name is :- Prunus × yedoensis
+plant name is :- Yucca Plant, its scientic name is :- Yucca 
+plant name is :- Zebra Grass, its scientic name is :- Miscanthus sinensis 'zebrinus'
+plant name is :- Zebra Plant, its scientic name is :- Aphelandra squarrosa
+plant name is :- Zigzag Plant, its scientic name is :- Euphorbia tithymaloides
+plant name is :- Zinfin Doll Hydrangea, its scientic name is :- Hydrangea paniculata 'SMNHPRZEP' Zinfin Doll
+plant name is :- Zonal Geranium, its scientic name is :- Pelargonium and hybrids
+plant name is :- Zz Plant, its scientic name is :- Zamioculcas zamiifolia
