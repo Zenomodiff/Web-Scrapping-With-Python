@@ -1,0 +1,100 @@
+Book_Name :- ULYSSES , Its Author is :-  James Joyce
+Book_Name :- THE GREAT GATSBY , Its Author is :-  F. Scott Fitzgerald
+Book_Name :- A PORTRAIT OF THE ARTIST AS A YOUNG MAN , Its Author is :-  James Joyce
+Book_Name :- LOLITA , Its Author is :-  Vladimir Nabokov
+Book_Name :- BRAVE NEW WORLD , Its Author is :-  Aldous Huxley
+Book_Name :- THE SOUND AND THE FURY , Its Author is :-  William Faulkner
+Book_Name :- CATCH-22 , Its Author is :-  Joseph Heller
+Book_Name :- DARKNESS AT NOON , Its Author is :-  Arthur Koestler
+Book_Name :- SONS AND LOVERS , Its Author is :-  D.H. Lawrence
+Book_Name :- THE GRAPES OF WRATH , Its Author is :-  John Steinbeck
+Book_Name :- UNDER THE VOLCANO , Its Author is :-  Malcolm Lowry
+Book_Name :- THE WAY OF ALL FLESH , Its Author is :-  Samuel Butler
+Book_Name :- 1984 , Its Author is :-  George Orwell
+Book_Name :- I, CLAUDIUS , Its Author is :-  Robert Graves
+Book_Name :- TO THE LIGHTHOUSE , Its Author is :-  Virginia Woolf
+Book_Name :- AN AMERICAN TRAGEDY , Its Author is :-  Theodore Dreiser
+Book_Name :- THE HEART IS A LONELY HUNTER , Its Author is :-  Carson McCullers
+Book_Name :- SLAUGHTERHOUSE-FIVE , Its Author is :-  Kurt Vonnegut
+Book_Name :- INVISIBLE MAN , Its Author is :-  Ralph Ellison
+Book_Name :- NATIVE SON , Its Author is :-  Richard Wright
+Book_Name :- HENDERSON THE RAIN KING , Its Author is :-  Saul Bellow
+Book_Name :- APPOINTMENT IN SAMARRA , Its Author is :-  John O’Hara
+Book_Name :- U.S.A.(trilogy) , Its Author is :-  John Dos Passos
+Book_Name :- WINESBURG, OHIO , Its Author is :-  Sherwood Anderson
+Book_Name :- A PASSAGE TO INDIA , Its Author is :-  E.M. Forster
+Book_Name :- THE WINGS OF THE DOVE , Its Author is :-  Henry James
+Book_Name :- THE AMBASSADORS , Its Author is :-  Henry James
+Book_Name :- TENDER IS THE NIGHT , Its Author is :-  F. Scott Fitzgerald
+Book_Name :- THE STUDS LONIGAN TRILOGY , Its Author is :-  James T. Farrell
+Book_Name :- THE GOOD SOLDIER , Its Author is :-  Ford Madox Ford
+Book_Name :- ANIMAL FARM , Its Author is :-  George Orwell
+Book_Name :- THE GOLDEN BOWL , Its Author is :-  Henry James
+Book_Name :- SISTER CARRIE , Its Author is :-  Theodore Dreiser
+Book_Name :- A HANDFUL OF DUST , Its Author is :-  Evelyn Waugh
+Book_Name :- AS I LAY DYING , Its Author is :-  William Faulkner
+Book_Name :- ALL THE KING’S MEN , Its Author is :-  Robert Penn Warren
+Book_Name :- THE BRIDGE OF SAN LUIS REY , Its Author is :-  Thornton Wilder
+Book_Name :- HOWARDS END , Its Author is :-  E.M. Forster
+Book_Name :- GO TELL IT ON THE MOUNTAIN , Its Author is :-  James Baldwin
+Book_Name :- THE HEART OF THE MATTER , Its Author is :-  Graham Greene
+Book_Name :- LORD OF THE FLIES , Its Author is :-  William Golding
+Book_Name :- DELIVERANCE , Its Author is :-  James Dickey
+Book_Name :- A DANCE TO THE MUSIC OF TIME (series) , Its Author is :-  Anthony Powell
+Book_Name :- POINT COUNTER POINT , Its Author is :-  Aldous Huxley
+Book_Name :- THE SUN ALSO RISES , Its Author is :-  Ernest Hemingway
+Book_Name :- THE SECRET AGENT , Its Author is :-  Joseph Conrad
+Book_Name :- NOSTROMO , Its Author is :-  Joseph Conrad
+Book_Name :- THE RAINBOW , Its Author is :-  D.H. Lawrence
+Book_Name :- WOMEN IN LOVE , Its Author is :-  D.H. Lawrence
+Book_Name :- TROPIC OF CANCER , Its Author is :-  Henry Miller
+Book_Name :- THE NAKED AND THE DEAD , Its Author is :-  Norman Mailer
+Book_Name :- PORTNOY’S COMPLAINT , Its Author is :-  Philip Roth
+Book_Name :- PALE FIRE , Its Author is :-  Vladimir Nabokov
+Book_Name :- LIGHT IN AUGUST , Its Author is :-  William Faulkner
+Book_Name :- ON THE ROAD , Its Author is :-  Jack Kerouac
+Book_Name :- THE MALTESE FALCON , Its Author is :-  Dashiell Hammett
+Book_Name :- PARADE’S END , Its Author is :-  Ford Madox Ford
+Book_Name :- THE AGE OF INNOCENCE , Its Author is :-  Edith Wharton
+Book_Name :- ZULEIKA DOBSON , Its Author is :-  Max Beerbohm
+Book_Name :- THE MOVIEGOER , Its Author is :-  Walker Percy
+Book_Name :- DEATH COMES FOR THE ARCHBISHOP , Its Author is :-  Willa Cather
+Book_Name :- FROM HERE TO ETERNITY , Its Author is :-  James Jones
+Book_Name :- THE WAPSHOT CHRONICLES , Its Author is :-  John Cheever
+Book_Name :- THE CATCHER IN THE RYE , Its Author is :-  J.D. Salinger
+Book_Name :- A CLOCKWORK ORANGE , Its Author is :-  Anthony Burgess
+Book_Name :- OF HUMAN BONDAGE , Its Author is :-  W. Somerset Maugham
+Book_Name :- HEART OF DARKNESS , Its Author is :-  Joseph Conrad
+Book_Name :- MAIN STREET , Its Author is :-  Sinclair Lewis
+Book_Name :- THE HOUSE OF MIRTH , Its Author is :-  Edith Wharton
+Book_Name :- THE ALEXANDRIA QUARTET , Its Author is :-  Lawrence Durrell
+Book_Name :- A HIGH WIND IN JAMAICA , Its Author is :-  Richard Hughes
+Book_Name :- A HOUSE FOR MR BISWAS , Its Author is :-  V.S. Naipaul
+Book_Name :- THE DAY OF THE LOCUST , Its Author is :-  Nathanael West
+Book_Name :- A FAREWELL TO ARMS , Its Author is :-  Ernest Hemingway
+Book_Name :- SCOOP , Its Author is :-  Evelyn Waugh
+Book_Name :- THE PRIME OF MISS JEAN BRODIE , Its Author is :-  Muriel Spark
+Book_Name :- FINNEGANS WAKE , Its Author is :-  James Joyce
+Book_Name :- KIM , Its Author is :-  Rudyard Kipling
+Book_Name :- A ROOM WITH A VIEW , Its Author is :-  E.M. Forster
+Book_Name :- BRIDESHEAD REVISITED , Its Author is :-  Evelyn Waugh
+Book_Name :- THE ADVENTURES OF AUGIE MARCH , Its Author is :-  Saul Bellow
+Book_Name :- ANGLE OF REPOSE , Its Author is :-  Wallace Stegner
+Book_Name :- A BEND IN THE RIVER , Its Author is :-  V.S. Naipaul
+Book_Name :- THE DEATH OF THE HEART , Its Author is :-  Elizabeth Bowen
+Book_Name :- LORD JIM , Its Author is :-  Joseph Conrad
+Book_Name :- RAGTIME , Its Author is :-  E.L. Doctorow
+Book_Name :- THE OLD WIVES’ TALE , Its Author is :-  Arnold Bennett
+Book_Name :- THE CALL OF THE WILD , Its Author is :-  Jack London
+Book_Name :- LOVING , Its Author is :-  Henry Green
+Book_Name :- MIDNIGHT’S CHILDREN , Its Author is :-  Salman Rushdie
+Book_Name :- TOBACCO ROAD , Its Author is :-  Erskine Caldwell
+Book_Name :- IRONWEED , Its Author is :-  William Kennedy
+Book_Name :- THE MAGUS , Its Author is :-  John Fowles
+Book_Name :- WIDE SARGASSO SEA , Its Author is :-  Jean Rhys
+Book_Name :- UNDER THE NET , Its Author is :-  Iris Murdoch
+Book_Name :- SOPHIE’S CHOICE , Its Author is :-  William Styron
+Book_Name :- THE SHELTERING SKY , Its Author is :-  Paul Bowles
+Book_Name :- THE POSTMAN ALWAYS RINGS TWICE , Its Author is :-  James M. Cain
+Book_Name :- THE GINGER MAN , Its Author is :-  J.P. Donleavy
+Book_Name :- THE MAGNIFICENT AMBERSONS , Its Author is :-  Booth Tarkington
