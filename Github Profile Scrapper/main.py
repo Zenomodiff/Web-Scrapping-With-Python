@@ -39,7 +39,7 @@ def Github_stats():
     for i in h2:
         j=i.get_text().split(' ')
         Contributions = j[6].strip()
-        print(f"Contributions = {Contributions}") #Contributions
+        print(f"Contributions = {Contributions}") #contributions
 
     g = soup.find_all('span',"Counter")[7]
     Stars = g.text.strip()
@@ -47,7 +47,7 @@ def Github_stats():
 
     h = soup.find('span',"p-label")
     Place = h.text.strip()
-    print(F"Place = {Place}") #stars count
+    print(F"Place = {Place}") #place
     print('')
 
     with open(f"{User_Name}.txt",'w')as f:
