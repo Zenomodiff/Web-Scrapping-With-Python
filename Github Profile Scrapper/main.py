@@ -28,10 +28,7 @@ def Github_stats():
 
     d = soup.find('div',"p-note")
     Content = d.text.strip()
-    if Content != "":
-        print(f"Contents = {Content}")
-    else:
-        print("Content = 0") #content
+    print(f"Contents = {Content}")
 
     e = soup.find('span',"Counter")
     Repositories = e.text.strip()
