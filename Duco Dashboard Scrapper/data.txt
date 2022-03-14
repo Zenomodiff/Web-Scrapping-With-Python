@@ -1,0 +1,6 @@
+Hash_Rate = 4.4 GH/s
+Users = 63297
+Circulation = 61.7706 M
+Net_Energy = 36.64 kW
+Mined_Shares = 130243.1059 M
+Active_Workers = 34349
