@@ -1,0 +1,39 @@
+KY-032 Infrared Obstacle Avoidance Sensor Module - https://arduinomodules.info/ky-032-infrared-obstacle-avoidance-sensor-module/
+KY-031 Knock Sensor Module - https://arduinomodules.info/ky-031-knock-sensor-module/
+KY-029 Dual Color LED Module - https://arduinomodules.info/ky-029-dual-color-led-module/
+KY-028 Digital Temperature Sensor Module - https://arduinomodules.info/ky-028-digital-temperature-sensor-module/
+KY-027 Magic Light Cup Module - https://arduinomodules.info/ky-027-magic-light-cup-module/
+KY-026 Flame Sensor Module - https://arduinomodules.info/ky-026-flame-sensor-module/
+KY-025 Reed Switch Module - https://arduinomodules.info/ky-025-reed-switch-module/
+KY-024 Linear Magnetic Hall module - https://arduinomodules.info/ky-024-linear-magnetic-hall-module/
+KY-023 Dual Axis Joystick Module - https://arduinomodules.info/ky-023-joystick-dual-axis-module/
+KY-021 Mini Magnetic Reed Switch Module - https://arduinomodules.info/ky-021-mini-magnetic-reed-switch-module/
+KY-032 Infrared Obstacle Avoidance Sensor Module - https://arduinomodules.info/ky-032-infrared-obstacle-avoidance-sensor-module/
+KY-031 Knock Sensor Module - https://arduinomodules.info/ky-031-knock-sensor-module/
+KY-029 Dual Color LED Module - https://arduinomodules.info/ky-029-dual-color-led-module/
+KY-028 Digital Temperature Sensor Module - https://arduinomodules.info/ky-028-digital-temperature-sensor-module/
+KY-027 Magic Light Cup Module - https://arduinomodules.info/ky-027-magic-light-cup-module/
+KY-026 Flame Sensor Module - https://arduinomodules.info/ky-026-flame-sensor-module/
+KY-025 Reed Switch Module - https://arduinomodules.info/ky-025-reed-switch-module/
+KY-024 Linear Magnetic Hall module - https://arduinomodules.info/ky-024-linear-magnetic-hall-module/
+KY-023 Dual Axis Joystick Module - https://arduinomodules.info/ky-023-joystick-dual-axis-module/
+KY-021 Mini Magnetic Reed Switch Module - https://arduinomodules.info/ky-021-mini-magnetic-reed-switch-module/
+KY-020 Tilt Switch Module - https://arduinomodules.info/ky-020-tilt-switch-module/
+KY-019 5V Relay Module - https://arduinomodules.info/ky-019-5v-relay-module/
+KY-018 Photoresistor Module - https://arduinomodules.info/ky-018-photoresistor-module/
+KY-017 Mercury Tilt Switch Module - https://arduinomodules.info/ky-017-mercury-switch-module/
+KY-016 RGB Full color LED module - https://arduinomodules.info/ky-016-rgb-full-color-led-module/
+KY-015 Temperature and Humidity Sensor Module - https://arduinomodules.info/ky-015-temperature-humidity-sensor-module/
+KY-022 Infrared Receiver Module - https://arduinomodules.info/ky-022-infrared-receiver-module/
+KY-013 Analog Temperature Sensor Module - https://arduinomodules.info/ky-013-analog-temperature-sensor-module/
+KY-012 Active Buzzer Module - https://arduinomodules.info/ky-012-active-buzzer-module/
+KY-011 Two color LED module - https://arduinomodules.info/ky-011-two-color-led-module-3mm/
+KY-009 RGB Full Color LED SMD Module - https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/
+KY-006 Passive Buzzer Module - https://arduinomodules.info/ky-006-passive-buzzer-module/
+KY-003 Hall Magnetic Sensor Module - https://arduinomodules.info/ky-003-hall-magnetic-sensor-module/
+KY-010 Photo Interrupter Module - https://arduinomodules.info/ky-010-photo-interrupter-module/
+KY-005 Infrared Transmitter Module - https://arduinomodules.info/ky-005-infrared-transmitter-sensor-module/
+KY-008 Laser Transmitter Module - https://arduinomodules.info/ky-008-laser-transmitter-module/
+KY-001 Temperature Sensor Module - https://arduinomodules.info/ky-001-temperature-sensor-module/
+KY-002 Vibration Switch Module - https://arduinomodules.info/ky-002-vibration-switch-module/
+KY-004 Key Switch Module - https://arduinomodules.info/ky-004-key-switch-module/
