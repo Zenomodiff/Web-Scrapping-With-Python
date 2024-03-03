@@ -67,12 +67,12 @@ def weather_data():
     wind_chill = (str(Wind_Chill) + " - " + str(Wind_Chill_Val))
     print(wind_chill)
 
-    Lastupdate = value[12].text.strip()
-    Lastupdate_Val = value[13].text.strip()
+    Lastupdate = value[1].text.strip()
+    Lastupdate_Val = value[1].text.strip()
     last_updtte = (str(Lastupdate) + " - " + str(Lastupdate_Val))
     print(last_updtte)
 
-    with open("data.text","w",encoding="utf-8")as f:
+    with open("data.txt","w",encoding="utf-8")as f:
         f.write(Place)
         f.write("\n")
         f.write(f"Latitude:- {latitude}, Longitude:- {longitude}, Elevation:- {elevation}")
