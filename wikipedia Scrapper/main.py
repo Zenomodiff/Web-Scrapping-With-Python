@@ -8,7 +8,7 @@ response = requests.get(url)
 try:
 
   soup = bs(response.text,'html.parser')
-  Words = soup.find("div",{"class":"mw-parser-output"})
+  Words = soup.find("div",{"class":"mw-content-ltr mw-parser-output"})
   Data1 = Words.find_all("p")[0]
   Data2 = Words.find_all("p")[1]
   Data3 = Words.find_all("p")[2]
