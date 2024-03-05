@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as bs
 
 url = "https://www.kicad.org/download/windows/"
 req = requests.get(url)
-soup= bs(req.content,"lxml") 
+soup = bs(req.content,"lxml") 
 data1 = soup.find("div",{"class":"fund-banner__text--light"})
 data2 = soup.find("div",{"class":"fund-banner__bar-current-sum"})
 fund1 = data1.text.strip()
